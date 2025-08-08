@@ -6,4 +6,4 @@ Graphene coated nanospheres: https://hackmd.io/@aligho/ByRl-iJ_ge
 
 CPA for thin films, cylinders and spheres: https://hackmd.io/@aligho/SymTGLcPxg
 
-
+Nonlocal corrections to plasmons in spheres: https://hackmd.io/@aligho/BJ8qUUMOgg 
