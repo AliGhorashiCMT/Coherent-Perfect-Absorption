@@ -9,3 +9,5 @@ CPA for thin films, cylinders and spheres: https://hackmd.io/@aligho/SymTGLcPxg
 Nonlocal corrections to plasmons in spheres: https://hackmd.io/@aligho/BJ8qUUMOgg
 
 Nonlocal corrections for SPPs in various configurations of flat metal-insulator boundaries: https://hackmd.io/@aligho/HJdkkZS_xl
+
+Feibelman d-parameters: https://hackmd.io/@aligho/BJKFkQdOgx
