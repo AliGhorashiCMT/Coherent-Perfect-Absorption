@@ -16,3 +16,5 @@ Nonlocal corrections for SPPs in various configurations of flat metal-insulator 
 Feibelman d-parameters: https://hackmd.io/@aligho/BJKFkQdOgx
 
 Mie scattering coefficients with Feibelman d-parameters: https://hackmd.io/@aligho/Bke9op__lx
+
+CPA for graphene multilayers (prediction): https://hackmd.io/@aligho/HyMyvezclx 
