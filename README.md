@@ -21,4 +21,6 @@ Mie scattering coefficients with Feibelman d-parameters: https://hackmd.io/@alig
 
 CPA for graphene multilayers (prediction): https://hackmd.io/@aligho/HyMyvezclx 
 
+CPA sum rule in 2D: https://hackmd.io/@aligho/BJCvem1hll
+
 Derivation of hydrodynamic equation for plasmons: https://hackmd.io/@aligho/rk4PhV1jel
