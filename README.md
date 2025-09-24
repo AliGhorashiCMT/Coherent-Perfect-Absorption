@@ -17,6 +17,7 @@ Feibelman d-parameters: https://hackmd.io/@aligho/BJKFkQdOgx
 
 Derivation of Feibelman d-parameters: https://hackmd.io/@aligho/rJnJYnKixl
 
+Lowest order corrections to surface plasmon dispersions due to d-parameters and hydrodynamic pressure: https://hackmd.io/@aligho/B1DdxSe3gg
 Mie scattering coefficients with Feibelman d-parameters: https://hackmd.io/@aligho/Bke9op__lx
 
 CPA for graphene multilayers (prediction): https://hackmd.io/@aligho/HyMyvezclx 
