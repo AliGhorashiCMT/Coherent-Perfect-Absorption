@@ -25,4 +25,7 @@ CPA for graphene multilayers (prediction): https://hackmd.io/@aligho/HyMyvezclx
 
 CPA sum rule in 2D: https://hackmd.io/@aligho/BJCvem1hll
 
+Cloacking for (long) cylindrical scatterers: https://hackmd.io/@aligho/B1Gs5Cz2el
+
 Derivation of hydrodynamic equation for plasmons: https://hackmd.io/@aligho/rk4PhV1jel
+
