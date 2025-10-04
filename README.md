@@ -4,6 +4,8 @@ Void and sphere plasmons (and their radiative decay): https://hackmd.io/@aligho/
 
 Graphene coated nanospheres: https://hackmd.io/@aligho/ByRl-iJ_ge
 
+Derivation of non-retarded multipolar polarizability for finite surface impedance: https://hackmd.io/@aligho/ByCdz6A3ex
+
 CPA for thin films, cylinders and spheres: https://hackmd.io/@aligho/SymTGLcPxg
 
 Conservation of energy for CPA in thin films: https://hackmd.io/@aligho/rkFKOwoFgg 
