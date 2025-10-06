@@ -10,6 +10,8 @@ Formalism for radiative decay for spheres with finite surface impedance: https:/
 
 CPA for thin films, cylinders and spheres: https://hackmd.io/@aligho/SymTGLcPxg
 
+CPA at large omega*a/c for spheres with finite surface impedance: https://hackmd.io/@aligho/HkO2bPW6ex
+
 Conservation of energy for CPA in thin films: https://hackmd.io/@aligho/rkFKOwoFgg 
 Also includes a discussion on scaling of scattering time/plasma frequency for doped semiconductors. In addition, we discuss the plasma and Woltersdorff thicknesses and evaluate them in specific cases. 
 
