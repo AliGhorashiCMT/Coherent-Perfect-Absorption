@@ -5,3 +5,5 @@
 **graphene coating.ipynb**: Reproduces figures from the paper: https://journals.aps.org/prb/pdf/10.1103/PhysRevB.91.125414 
 
 **radiative_losses.ipynb**: Evaluation of the transverse-magnetic plasmon dispersion from the fully retarded expression of the TM scattering coefficients. The fully retarded and quasistatic calculations give essentially the same results. 
+
+**dielectric sphere modes.ipynb**: Reproduces figure 11.13 in Novotny and Hecht (see pages 353-355).
