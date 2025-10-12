@@ -4,9 +4,9 @@ Void and sphere plasmons (and their radiative decay): https://hackmd.io/@aligho/
 
 Graphene coated nanospheres: https://hackmd.io/@aligho/ByRl-iJ_ge Includes derivation of TM (no radial magnetic field) and TE (no radial electric field) scattering coefficients in the presence of finite surface conductivity. Also includes a derivation of hydrodynamic corrections for the surface layer. 
 
-Derivation of non-retarded multipolar polarizability for finite surface impedance: https://hackmd.io/@aligho/ByCdz6A3ex
+Derivation of non-retarded multipolar polarizability for finite surface impedance: https://hackmd.io/@aligho/ByCdz6A3ex Starts with the derivation of plasmon modes in the quasistatic approximation and demonstrates equivalence with the general, retarded, result in the small sphere (compared to wavelength) limit. The TE plasmon dispersion is also calculated for small spheres. 
 
-Non-retarded surface plasmons for cylinders: https://hackmd.io/@aligho/rk6siaGTeg
+Non-retarded surface plasmons for cylinders: https://hackmd.io/@aligho/rk6siaGTeg Equivalence of the fully retarded and quasistatic TM plasmon dispersions for small cylinders. The TE plasmon dispersion for small cylinders is also calculated. 
 
 Formalism for radiative decay for spheres with finite surface impedance: https://hackmd.io/@aligho/r1OqhOxpgl 
 
