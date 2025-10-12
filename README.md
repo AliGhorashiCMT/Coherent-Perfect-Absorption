@@ -1,10 +1,13 @@
 # Coherent-Perfect-Absorption
 
-Void and sphere plasmons (and their radiative decay): https://hackmd.io/@aligho/BJK40peuxl
+**Void and sphere plasmons (and their radiative decay)**: https://hackmd.io/@aligho/BJK40peuxl
 
-Graphene coated nanospheres: https://hackmd.io/@aligho/ByRl-iJ_ge Includes derivation of TM (no radial magnetic field) and TE (no radial electric field) scattering coefficients in the presence of finite surface conductivity. Also includes a derivation of hydrodynamic corrections for the surface layer. 
+**Graphene coated nanospheres**: https://hackmd.io/@aligho/ByRl-iJ_ge 
+- Includes derivation of TM (no radial magnetic field) and TE (no radial electric field) scattering coefficients in the presence of finite surface conductivity.
+- Includes a derivation of nonlocal hydrodynamic corrections for the surface layer. 
 
-Derivation of non-retarded multipolar polarizability for finite surface impedance: https://hackmd.io/@aligho/ByCdz6A3ex Starts with the derivation of plasmon modes in the quasistatic approximation and demonstrates equivalence with the general, retarded, result in the small sphere (compared to wavelength) limit. The TE plasmon dispersion is also calculated for small spheres. 
+**Derivation of non-retarded multipolar polarizability for finite surface impedance**: https://hackmd.io/@aligho/ByCdz6A3ex 
+-Starts with the derivation of plasmon modes in the quasistatic approximation and demonstrates equivalence with the general, retarded, result in the small sphere (compared to wavelength) limit. The TE plasmon dispersion is also calculated for small spheres. 
 
 Non-retarded surface plasmons for cylinders: https://hackmd.io/@aligho/rk6siaGTeg Equivalence of the fully retarded and quasistatic TM plasmon dispersions for small cylinders. The TE plasmon dispersion for small cylinders is also calculated. 
 
