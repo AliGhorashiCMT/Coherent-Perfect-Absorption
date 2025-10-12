@@ -4,7 +4,8 @@
 
 **Graphene coated nanospheres**: https://hackmd.io/@aligho/ByRl-iJ_ge 
 - Includes derivation of TM (no radial magnetic field) and TE (no radial electric field) scattering coefficients in the presence of finite surface conductivity.
-- Includes a derivation of nonlocal hydrodynamic corrections for the surface layer. 
+- Includes a derivation of nonlocal hydrodynamic corrections for the surface layer.
+- For numerical validation, see **./spheres/graphene coating.ipynb**
 
 **Derivation of non-retarded multipolar polarizability for finite surface impedance**: https://hackmd.io/@aligho/ByCdz6A3ex 
 
@@ -21,7 +22,7 @@
 
 **CPA for thin films, cylinders and spheres**: https://hackmd.io/@aligho/SymTGLcPxg
 
-**CPA at large $\omega\times a/c$ (large radius as compared to wavelength) for spheres with finite surface impedance**: https://hackmd.io/@aligho/HkO2bPW6ex
+**CPA at large $\omega a/c$ (large radius as compared to wavelength) for spheres with finite surface impedance**: https://hackmd.io/@aligho/HkO2bPW6ex
 
 **Conservation of energy for CPA in thin films**: https://hackmd.io/@aligho/rkFKOwoFgg 
 
