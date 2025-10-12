@@ -7,36 +7,43 @@
 - Includes a derivation of nonlocal hydrodynamic corrections for the surface layer. 
 
 **Derivation of non-retarded multipolar polarizability for finite surface impedance**: https://hackmd.io/@aligho/ByCdz6A3ex 
--Starts with the derivation of plasmon modes in the quasistatic approximation and demonstrates equivalence with the general, retarded, result in the small sphere (compared to wavelength) limit. The TE plasmon dispersion is also calculated for small spheres. 
 
-Non-retarded surface plasmons for cylinders: https://hackmd.io/@aligho/rk6siaGTeg Equivalence of the fully retarded and quasistatic TM plasmon dispersions for small cylinders. The TE plasmon dispersion for small cylinders is also calculated. 
+- Includes derivation of TM plasmon modes in the quasistatic approximation and demonstrates equivalence with the general, retarded, result in the small sphere (as compared to wavelength) limit.
+- The TE plasmon dispersion is also calculated for small spheres (Relevant if the imaginary part of the conductivity can be negative).
 
-Formalism for radiative decay for spheres with finite surface impedance: https://hackmd.io/@aligho/r1OqhOxpgl 
+**Non-retarded surface plasmons for cylinders**: https://hackmd.io/@aligho/rk6siaGTeg 
 
-CPA for thin films, cylinders and spheres: https://hackmd.io/@aligho/SymTGLcPxg
+- Demonstrates equivalence of the fully retarded and quasistatic TM plasmon dispersions for small cylinders.
+- The TE plasmon dispersion for small cylinders is also calculated. 
 
-CPA at large omega*a/c for spheres with finite surface impedance: https://hackmd.io/@aligho/HkO2bPW6ex
+**Formalism for radiative decay for spheres with finite surface impedance**: https://hackmd.io/@aligho/r1OqhOxpgl 
 
-Conservation of energy for CPA in thin films: https://hackmd.io/@aligho/rkFKOwoFgg 
-Also includes a discussion on scaling of scattering time/plasma frequency for doped semiconductors. In addition, we discuss the plasma and Woltersdorff thicknesses and evaluate them in specific cases. 
+**CPA for thin films, cylinders and spheres**: https://hackmd.io/@aligho/SymTGLcPxg
 
-Nonlocal corrections to plasmons in spheres: https://hackmd.io/@aligho/BJ8qUUMOgg
+**CPA at large omega*a/c for spheres with finite surface impedance**: https://hackmd.io/@aligho/HkO2bPW6ex
 
-Nonlocal corrections for SPPs in various configurations of flat metal-insulator boundaries: https://hackmd.io/@aligho/HJdkkZS_xl
+**Conservation of energy for CPA in thin films**: https://hackmd.io/@aligho/rkFKOwoFgg 
 
-Feibelman d-parameters: https://hackmd.io/@aligho/BJKFkQdOgx
+- Also includes a discussion on scaling of scattering time/plasma frequency for doped semiconductors. 
+- In addition, we discuss the plasma and Woltersdorff thicknesses and evaluate them in specific cases. 
 
-Derivation of Feibelman d-parameters: https://hackmd.io/@aligho/rJnJYnKixl
+**Nonlocal corrections to plasmons in spheres**: https://hackmd.io/@aligho/BJ8qUUMOgg
 
-Lowest order corrections to surface plasmon dispersions due to d-parameters and hydrodynamic pressure: https://hackmd.io/@aligho/B1DdxSe3gg
+**Nonlocal corrections for SPPs in various configurations of flat metal-insulator boundaries**: https://hackmd.io/@aligho/HJdkkZS_xl
 
-Mie scattering coefficients with Feibelman d-parameters: https://hackmd.io/@aligho/Bke9op__lx
+**Feibelman d-parameters**: https://hackmd.io/@aligho/BJKFkQdOgx
 
-CPA for graphene multilayers (prediction): https://hackmd.io/@aligho/HyMyvezclx 
+**Derivation of Feibelman d-parameters**: https://hackmd.io/@aligho/rJnJYnKixl
 
-CPA sum rule in 2D: https://hackmd.io/@aligho/BJCvem1hll
+**Lowest order corrections to surface plasmon dispersions due to d-parameters and hydrodynamic pressure**: https://hackmd.io/@aligho/B1DdxSe3gg
 
-Cloacking for (long) cylindrical scatterers: https://hackmd.io/@aligho/B1Gs5Cz2el
+**Mie scattering coefficients with Feibelman d-parameters**: https://hackmd.io/@aligho/Bke9op__lx
 
-Derivation of hydrodynamic equation for plasmons: https://hackmd.io/@aligho/rk4PhV1jel
+**CPA for graphene multilayers (prediction)**: https://hackmd.io/@aligho/HyMyvezclx 
+
+**CPA sum rule in 2D**: https://hackmd.io/@aligho/BJCvem1hll
+
+**Cloacking for (long) cylindrical scatterers**: https://hackmd.io/@aligho/B1Gs5Cz2el
+
+**Derivation of hydrodynamic equation for plasmons**: https://hackmd.io/@aligho/rk4PhV1jel
 
