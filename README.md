@@ -2,7 +2,7 @@
 
 Void and sphere plasmons (and their radiative decay): https://hackmd.io/@aligho/BJK40peuxl
 
-Graphene coated nanospheres: https://hackmd.io/@aligho/ByRl-iJ_ge
+Graphene coated nanospheres: https://hackmd.io/@aligho/ByRl-iJ_ge Includes derivation of TM (no radial magnetic field) and TE (no radial electric field) scattering coefficients in the presence of finite surface conductivity. Also includes a derivation of hydrodynamic corrections for the surface layer. 
 
 Derivation of non-retarded multipolar polarizability for finite surface impedance: https://hackmd.io/@aligho/ByCdz6A3ex
 
