@@ -14,7 +14,8 @@
 **Non-retarded surface plasmons for cylinders**: https://hackmd.io/@aligho/rk6siaGTeg 
 
 - Demonstrates equivalence of the fully retarded and quasistatic TM plasmon dispersions for small cylinders.
-- The TE plasmon dispersion for small cylinders is also calculated. 
+- The TE plasmon dispersion for small cylinders is also calculated.
+- For numerical validation, see **./cylinders/surface_plasmons.ipynb**
 
 **Formalism for radiative decay for spheres with finite surface impedance**: https://hackmd.io/@aligho/r1OqhOxpgl 
 
