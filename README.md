@@ -19,6 +19,7 @@
 - Demonstrates equivalence of the fully retarded and quasistatic TM plasmon dispersions for small cylinders.
 - The TE plasmon dispersion for small cylinders is also calculated.
 - For numerical validation, see **./cylinders/surface_plasmons.ipynb**
+- The TE and TM plasmon dispersions are used for the small radius limits of CPA in **./cylinders/cpa through finite surface impedance.ipynb**
 
 **Formalism for radiative decay for spheres with finite surface impedance**: https://hackmd.io/@aligho/r1OqhOxpgl 
 
@@ -50,7 +51,8 @@
 
 **Cloacking for (long) cylindrical scatterers**: https://hackmd.io/@aligho/B1Gs5Cz2el
 
-- Expressions derived in this set of notes are used in **./cylinders/cpa through finite surface impedance.ipynb**
+- Expressions derived in this set of notes are used in **./cylinders/cpa through finite surface impedance.ipynb**. In particular, this set of notes
+finds both the general expressions for the scattering coefficients and also their large $a\omega/c$ asymptotic expansions. 
 
 **Derivation of hydrodynamic equation for plasmons**: https://hackmd.io/@aligho/rk4PhV1jel
 
