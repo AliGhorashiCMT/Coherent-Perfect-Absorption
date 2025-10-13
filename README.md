@@ -10,7 +10,9 @@
 **Derivation of non-retarded multipolar polarizability for finite surface impedance**: https://hackmd.io/@aligho/ByCdz6A3ex 
 
 - Includes derivation of TM plasmon modes in the quasistatic approximation and demonstrates equivalence with the general, retarded, result in the small sphere (as compared to wavelength) limit.
+- For numerical comparisons between the quasistatic and fully retarded expressions for nanospheres, see **./spheres/radiative_losses.ipynb**
 - The TE plasmon dispersion is also calculated for small spheres (Relevant if the imaginary part of the conductivity can be negative).
+- The plasmon dispersions are used implicitly in **./spheres/cpa through finite surface impedance.ipynb**
 
 **Non-retarded surface plasmons for cylinders**: https://hackmd.io/@aligho/rk6siaGTeg 
 
