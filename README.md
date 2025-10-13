@@ -23,6 +23,7 @@
 **CPA for thin films, cylinders and spheres**: https://hackmd.io/@aligho/SymTGLcPxg
 
 **CPA at large $\omega a/c$ (large radius as compared to wavelength) for spheres with finite surface impedance**: https://hackmd.io/@aligho/HkO2bPW6ex
+- For numerical validation, see **./spheres/cpa through finite surface impedance.ipynb**
 
 **Conservation of energy for CPA in thin films**: https://hackmd.io/@aligho/rkFKOwoFgg 
 
