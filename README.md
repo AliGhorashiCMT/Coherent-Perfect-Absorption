@@ -50,5 +50,7 @@
 
 **Cloacking for (long) cylindrical scatterers**: https://hackmd.io/@aligho/B1Gs5Cz2el
 
+- Expressions derived in this set of notes are used in **./cylinders/cpa through finite surface impedance.ipynb**
+
 **Derivation of hydrodynamic equation for plasmons**: https://hackmd.io/@aligho/rk4PhV1jel
 
