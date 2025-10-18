@@ -6,4 +6,5 @@
 
 **cpa through finite surface impedance.ipynb**: This jupyter notebook finds the regime for coherent perfect absorption for small and large spheres. 
 
+**cpa surface conductivity .ipynb**:  Calculates, from closed form solutions (see https://hackmd.io/@aligho/BkyC6e3agg), the conductivity required for CPA and calculates the bandwidth for graphene.
 
