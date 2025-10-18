@@ -7,3 +7,5 @@
 **radiative_losses.ipynb**: Evaluation of the transverse-magnetic plasmon dispersion from the fully retarded expression of the TM scattering coefficients. The fully retarded and quasistatic calculations give essentially the same results. 
 
 **dielectric sphere modes.ipynb**: Reproduces figure 11.13 in Novotny and Hecht (see pages 353-355).
+
+**cpa surface conductivity.ipynb**: Calculates, from closed form solutions (see https://hackmd.io/@aligho/BkyC6e3agg) the conductivity required for CPA and calculates the bandwidth for graphene. 
