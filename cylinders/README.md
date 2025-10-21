@@ -4,7 +4,9 @@
 
 **surface_plasmons.ipynb**: This jupyter notebook calculates the surface plasmon dispersion for graphene coated cylinders using quasistatic and fully retarded expressions. 
 
-**cpa through finite surface impedance.ipynb**: This jupyter notebook finds the regime for coherent perfect absorption for small and large spheres. 
+**cpa through finite surface impedance.ipynb**: This jupyter notebook finds the regime for coherent perfect absorption for small and large $kR$ (free space wavelength normalized to cylinder radius). For small $kR$, we tune the surface conductivity to be $-i\sigma(\omega)/\omega\varepsilon_0a\approx 1+\varepsilon$ (for modes with $E_z=0$) and $1/\sigma(\omega)\approx (i/2)(ka/nc\varepsilon_0)$, where $n=\sqrt{\varepsilon}$ (see https://hackmd.io/@aligho/rk6siaGTeg). For large $kR$, we fix the conductivity to be $\sigma(\omega)=c\varepsilon_0$ and we see periodic CPA (see https://hackmd.io/@aligho/B1Gs5Cz2el).
 
 **cpa surface conductivity .ipynb**:  Calculates, from closed form solutions (see https://hackmd.io/@aligho/BkyC6e3agg), the conductivity required for CPA and calculates the bandwidth for graphene.
+
+**utils.py**: Scattering coefficients relevant to CPA for cylinders (see https://hackmd.io/@aligho/B1Gs5Cz2el).
 
