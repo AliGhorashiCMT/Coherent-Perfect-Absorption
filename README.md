@@ -23,7 +23,10 @@
 
 **Formalism for radiative decay for spheres with finite surface impedance**: https://hackmd.io/@aligho/r1OqhOxpgl 
 
-**Demonstration that radiative decay rates through two different methods are equivalent**: https://hackmd.io/@aligho/Bkq90Xxybx
+**Demonstration that radiative decay rates through two different methods are equivalent**: 
+
+- For bulk permittivities: https://hackmd.io/@aligho/Bkq90Xxybx
+- For finite surface impedance: https://hackmd.io/@aligho/HyiKTnQkbe
 
 **CPA for thin films, cylinders and spheres**: https://hackmd.io/@aligho/SymTGLcPxg
 
