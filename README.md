@@ -61,5 +61,6 @@ finds both the general expressions for the scattering coefficients and also thei
 
 **Derivation of hydrodynamic equation for plasmons**: https://hackmd.io/@aligho/rk4PhV1jel
 
+**Modes of the universe approach**: https://hackmd.io/SRJZeqboQqGcS29nGUljdg
 **Miscellaneous Notes**: Anisotropic dielectrics: https://hackmd.io/@aligho/BkfSXAi0xl, https://hackmd.io/@aligho/SJ6BpiaCgx
 
