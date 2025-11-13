@@ -12,4 +12,7 @@
 
 **cpa surface conductivity.ipynb**: Calculates, from closed form solutions (see https://hackmd.io/@aligho/BkyC6e3agg) the conductivity required for CPA and calculates the bandwidth for graphene. 
 
+**cpa for multilayered spheres**: Calculates CPA for multilayered systems recursively (see https://hackmd.io/@aligho/H1UxFPGeZx). Reproduces **figure 3** from Noh, Heeso, et al. "Perfect coupling of light to surface plasmons by coherent absorption." Physical review letters 108.18 (2012): 186805.
+
 **utils.py**: Expressions for scattering coefficients for spheres. The zeros of the denominator functions give the surface plasmon frequencies and the zeros of the numerator functions give the CPA frequencies. For derivation of the scattering coefficients, see: https://hackmd.io/@aligho/ByRl-iJ_ge. 
+
