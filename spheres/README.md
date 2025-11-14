@@ -10,7 +10,7 @@
 
 **cpa through finite surface impedance.ipynb**: Investigates CPA at large and small values for $kR$ for a sphere. For small $kR$, for TM modes, we tune the surface conductivity around the surface plasmon value $-il(l+1)\sigma(\omega)/\omega\varepsilon_0\approx l\varepsilon + (l+1)$ (see https://hackmd.io/@aligho/ByCdz6A3ex). For TE modes, we tune the surface conductivity around the value $\sigma(\omega)\approx -i(2l+1)/\mu_0\omega a$ (see the same set of notes). For large $kR$, we fix the conductivity to be $\sigma(\omega)=c\varepsilon_0$ and we see periodic CPA (see https://hackmd.io/@aligho/HkO2bPW6ex).
 
-**cpa surface conductivity.ipynb**: Calculates, from closed form solutions (see https://hackmd.io/@aligho/BkyC6e3agg) the conductivity required for CPA and calculates the bandwidth for graphene. 
+**cpa surface conductivity.ipynb**: Calculates, from closed form solutions (see https://hackmd.io/@aligho/BkyC6e3agg) the conductivity required for CPA and calculates the bandwidth for graphene. For a derivation of an approximation to the CPA bandwidth, see https://hackmd.io/@aligho/r1zDQZNgbg. 
 
 **cpa for multilayered spheres**: Calculates CPA for multilayered systems recursively (see https://hackmd.io/@aligho/H1UxFPGeZx). Reproduces **figure 3** from Noh, Heeso, et al. "Perfect coupling of light to surface plasmons by coherent absorption." Physical review letters 108.18 (2012): 186805.
 
