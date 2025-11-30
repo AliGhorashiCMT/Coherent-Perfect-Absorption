@@ -28,6 +28,10 @@
 - For bulk permittivities: https://hackmd.io/@aligho/Bkq90Xxybx
 - For finite surface impedance: https://hackmd.io/@aligho/HyiKTnQkbe
 
+**Radiative decay for photonic crystal leaky modes**:
+
+- https://hackmd.io/@aligho/rJXEdoObbg
+
 **CPA for thin films, cylinders and spheres**: https://hackmd.io/@aligho/SymTGLcPxg
 
 **CPA at large $\omega a/c$ (large radius as compared to wavelength) for spheres with finite surface impedance**: https://hackmd.io/@aligho/HkO2bPW6ex
