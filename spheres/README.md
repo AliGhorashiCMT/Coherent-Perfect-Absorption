@@ -18,5 +18,7 @@
 
 **CPA for multilayer with thin film.ipynb**: Compares the multilayer formalism with the closed form CPA formalism for cloaked systems. In particular, we consider we map a cloaked system to an "equivalent" multilayer system with mantle layer dielectric constant given by $\varepsilon(\omega)=1+i\sigma(\omega)/(\varepsilon_0\omega d)$.
 
+**Tracking Fermi energy in the complex plane.ipynb**: Finds $\tau$, $\varepsilon_F=\varepsilon_F'+i\varepsilon_F''$ when we are off CPA.
+
 **utils.py**: Expressions for scattering coefficients for spheres. The zeros of the denominator functions give the surface plasmon frequencies and the zeros of the numerator functions give the CPA frequencies. For derivation of the scattering coefficients, see: https://hackmd.io/@aligho/ByRl-iJ_ge. 
 
