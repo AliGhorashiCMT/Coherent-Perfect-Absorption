@@ -16,5 +16,7 @@
 
 **cpa for multilayered spheres**: Calculates CPA for multilayered systems recursively (see https://hackmd.io/@aligho/H1UxFPGeZx). Reproduces **figure 3** from Noh, Heeso, et al. "Perfect coupling of light to surface plasmons by coherent absorption." Physical review letters 108.18 (2012): 186805.
 
+**CPA for multilayer with thin film.ipynb**: Compares the multilayer formalism with the closed form CPA formalism for cloaked systems. In particular, we consider we map a cloaked system to an "equivalent" multilayer system with mantle layer dielectric constant given by $\varepsilon(\omega)=1+i\sigma(\omega)/(\varepsilon_0\omega d)$.
+
 **utils.py**: Expressions for scattering coefficients for spheres. The zeros of the denominator functions give the surface plasmon frequencies and the zeros of the numerator functions give the CPA frequencies. For derivation of the scattering coefficients, see: https://hackmd.io/@aligho/ByRl-iJ_ge. 
 
