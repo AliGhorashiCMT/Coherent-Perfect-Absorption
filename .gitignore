@@ -1,3 +1,4 @@
 spheres/.ipynb_checkpoints/*
 cylinders/.ipynb_checkpoints/*
-
+cylinders/__pycache__/*
+spheres/__pycache__/*
