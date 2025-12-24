@@ -1,6 +1,6 @@
 # Coherent-Perfect-Absorption
 
-**Void and sphere plasmons (and their radiative decay)**: https://hackmd.io/@aligho/BJK40peuxl
+**Void and sphere plasmons (and their radiative decay)**: https://hackmd.io/@aligho/BJK40peuxl. For code, see **./spheres/Void Plasmon Decay.ipynb** where we verify the dispersion and radiative loss for the $H=1.2, q=1$ dipolar sphere-like mode. 
 
 **Graphene coated nanospheres**: https://hackmd.io/@aligho/ByRl-iJ_ge 
 - Includes derivation of TM (no radial magnetic field) and TE (no radial electric field) scattering coefficients in the presence of finite surface conductivity.
