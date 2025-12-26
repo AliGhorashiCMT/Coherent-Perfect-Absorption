@@ -2,6 +2,7 @@
 
 **Void and sphere plasmons (and their radiative decay)**: https://hackmd.io/@aligho/BJK40peuxl 
 - For code, see **./spheres/Void Plasmon Decay.ipynb** where we verify the dispersion and radiative loss for the $H=0.4, 0.8, 1.2, q=1$ dipolar sphere-like and void-like modes in the range $2<R<7$, corresponding **Figure 1** of the paper.
+- Additionally, in **./spheres/Void Plasmon Surface Scattering.ipynb**, we verify **Figure 7** of the paper. In particular, for the fundamental dipolar mode, we calculate the plasmon loss with and without (diffuse) surface scattering.
 
 **Graphene coated nanospheres**: https://hackmd.io/@aligho/ByRl-iJ_ge 
 - Includes derivation of TM (no radial magnetic field) and TE (no radial electric field) scattering coefficients in the presence of finite surface conductivity.
