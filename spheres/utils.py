@@ -76,3 +76,35 @@ def graphene_conductivity(epsilon_F, hbar_omega, gamma, include_interband=False)
     if include_interband: 
         conductivity += alpha*pi*heaviside(hbar_omega-2*epsilon_F, 0.5) + 1j*alpha*np.log(np.abs(2*epsilon_F-hbar_omega)/np.abs(2*epsilon_F+hbar_omega))
     return conductivity 
+
+# Recursive model for the scattering coefficients of a multilayer, for the h_r=0 modes. epsilon1 is the dielectric constant of the inner layer, epsilon2 the dielectric constant of the outer layer, kR is the free space wavelength multiplied by the radius at which the inner layer meets the outer layer 
+def e_r_recursive_cpa(previous_coefficients, l, epsilon1, epsilon2, kR):
+
+    x = sqrt(epsilon2) * kR
+    y = sqrt(epsilon1) * kR
+    
+    mat1_11 = hl1(l, y)
+    mat1_12 = hl2(l, y)
+    
+    yhl1_prime = hl1(l, y) + y * hl1prime(l, y)
+    yhl2_prime = hl2(l, y) + y * hl2prime(l, y)
+    
+    mat1_21 = epsilon2 * yhl1_prime
+    mat1_22 = epsilon2 * yhl2_prime
+    
+    xhl1_prime = hl1(l, x) + x * hl1prime(l, x)
+    xhl2_prime = hl2(l, x) + x * hl2prime(l, x)
+    
+    mat2_11 = epsilon1 * xhl2_prime
+    mat2_12 = -hl2(l, x)
+    
+    mat2_21 = -epsilon1 * xhl1_prime
+    mat2_22 = hl1(l, x)
+    
+    
+    mat1 = np.array([[mat1_11, mat1_12], [mat1_21, mat1_22]])
+    mat2 = np.array([[mat2_11, mat2_12], [mat2_21, mat2_22]])
+    
+    next_coefficients = np.einsum("ij..., jk..., k...->i...", mat2, mat1, previous_coefficients)
+
+    return next_coefficients
