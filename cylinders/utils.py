@@ -1,5 +1,6 @@
 from scipy.special import jv, hankel2, hankel1, yv, jvp
 from numpy import conj, sqrt, pi, exp
+import numpy as np
 
 def hl2_prime(n, z):
     return (n / z) * hankel2(n, z) - hankel2(n + 1, z) # derivative for hankel function of second kind
@@ -40,3 +41,28 @@ def e_z_cpa_denominator(l, x, epsilon, g_omegas=0):
 
 def e_z_cpa(l, x, epsilon, g_omegas=0): 
     return e_z_cpa_numerator(l, x, epsilon, g_omegas)/e_z_cpa_denominator(l, x, epsilon, g_omegas)
+
+# Recursive cpa method for h_z modes 
+def h_z_recursive_cpa(previous_coefficients, l, epsilon1, epsilon2, kR):
+    n1 = sqrt(epsilon1); n2 = sqrt(epsilon2)
+    x = n2 * kR
+    y = n1 * kR
+    
+    mat1_11 = hankel1(l, y)
+    mat1_12 = hankel2(l, y)
+        
+    mat1_21 = n2 * hl1_prime(l, y)
+    mat1_22 = n2 * hl2_prime(l, y)
+        
+    mat2_11 = n1 * hl2_prime(l, x)
+    mat2_12 = -hankel2(l, x)
+    
+    mat2_21 = -n1 * hl1_prime(l, x)
+    mat2_22 = hankel1(l, x)
+    
+    mat1 = np.array([[mat1_11, mat1_12], [mat1_21, mat1_22]])
+    mat2 = np.array([[mat2_11, mat2_12], [mat2_21, mat2_22]])
+    
+    next_coefficients = np.einsum("ij..., jk..., k...->i...", mat2, mat1, previous_coefficients)
+
+    return next_coefficients
