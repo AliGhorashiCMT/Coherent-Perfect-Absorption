@@ -108,3 +108,35 @@ def e_r_recursive_cpa(previous_coefficients, l, epsilon1, epsilon2, kR):
     next_coefficients = np.einsum("ij..., jk..., k...->i...", mat2, mat1, previous_coefficients)
 
     return next_coefficients
+
+# Same as the function above but for magnetic modes (E_r=0)
+def h_r_recursive_cpa(previous_coefficients, l, epsilon1, epsilon2, kR):
+
+    x = sqrt(epsilon2) * kR
+    y = sqrt(epsilon1) * kR
+    
+    mat1_11 = hl1(l, y)
+    mat1_12 = hl2(l, y)
+    
+    yhl1_prime = hl1(l, y) + y * hl1prime(l, y)
+    yhl2_prime = hl2(l, y) + y * hl2prime(l, y)
+    
+    mat1_21 = yhl1_prime
+    mat1_22 = yhl2_prime
+    
+    xhl1_prime = hl1(l, x) + x * hl1prime(l, x)
+    xhl2_prime = hl2(l, x) + x * hl2prime(l, x)
+    
+    mat2_11 = xhl2_prime
+    mat2_12 = -hl2(l, x)
+    
+    mat2_21 = -xhl1_prime
+    mat2_22 = hl1(l, x)
+    
+    
+    mat1 = np.array([[mat1_11, mat1_12], [mat1_21, mat1_22]])
+    mat2 = np.array([[mat2_11, mat2_12], [mat2_21, mat2_22]])
+    
+    next_coefficients = np.einsum("ij..., jk..., k...->i...", mat2, mat1, previous_coefficients)
+
+    return next_coefficients
