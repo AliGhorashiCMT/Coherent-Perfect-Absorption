@@ -10,6 +10,9 @@
 
 **Multilayered cylinders.ipynb**: Verifies that our closed form solutions for CPA for cylinders are consistent with a multilayer approach in which the dielectric function of the mantle layer is thickness dependent: $\varepsilon(\omega)=1+i\sigma(\omega)/(\varepsilon_0\omega d)$. In addition, we find the wavelengths and radii corresponding to CPA for a silica-metal multilayer. We find that for Cesium one can get CPA even when the radius of the inner silica core goes to zero. 
 
+**Passive sink.ipynb**: Reproduces figures in the paper [Broadband subwavelength focusing of
+light using a passive sink](https://opg.optica.org/oe/fulltext.cfm?uri=oe-21-15-17435) by **Hui Cao**. 
+
 **utils.py**: Scattering coefficients relevant to CPA for cylinders (see https://hackmd.io/@aligho/B1Gs5Cz2el).
 
 
