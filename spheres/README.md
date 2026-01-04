@@ -24,5 +24,7 @@
 
 **Tracking Fermi energy in the complex plane.ipynb**: Finds $\tau$, $\varepsilon_F=\varepsilon_F'+i\varepsilon_F''$ when we are off CPA. In addition, for conductivity that is off CPA, we find the necessary correction to the bulk dielectric constant to bring one back on CPA. 
 
+**Passive sink surface conductivity.ipynb**: Similar to the notebook of the same name in **../cylinders/**, just for cylinders. 
+
 **utils.py**: Expressions for scattering coefficients for spheres. The zeros of the denominator functions give the surface plasmon frequencies and the zeros of the numerator functions give the CPA frequencies. For derivation of the scattering coefficients, see: https://hackmd.io/@aligho/ByRl-iJ_ge. 
 
