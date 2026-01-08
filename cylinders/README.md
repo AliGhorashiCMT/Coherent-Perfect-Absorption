@@ -13,6 +13,9 @@
 **Passive sink.ipynb**: Reproduces figures in the paper [Broadband subwavelength focusing of
 light using a passive sink](https://opg.optica.org/oe/fulltext.cfm?uri=oe-21-15-17435) by **Hui Cao**. 
 
+**Passive sink plane waves and time domain.ipynb**: Passive sink calculations from [Broadband subwavelength focusing of
+light using a passive sink](https://opg.optica.org/oe/fulltext.cfm?uri=oe-21-15-17435) by **Hui Cao** which involve plane wave excitations. 
+
 **Passive sink surface conductivity.ipynb**: Passive sink but with coating instead of a metallic bulk. 
 
 **utils.py**: Scattering coefficients relevant to CPA for cylinders (see https://hackmd.io/@aligho/B1Gs5Cz2el).
