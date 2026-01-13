@@ -15,7 +15,7 @@
 - For numerical comparisons between the quasistatic and fully retarded expressions for nanospheres, see **./spheres/radiative_losses.ipynb**
 - The TE plasmon dispersion is also calculated for small spheres (Relevant if the imaginary part of the conductivity can be negative).
 - The plasmon dispersions are used implicitly in **./spheres/cpa through finite surface impedance.ipynb**
-- For a discussion on Kramers-Kronig relations for multipolar polarizabilities: https://hackmd.io/@aligho/SkebhByH-g (notes on the paper [Causality relations in the homogenization of metamaterials](https://journals.aps.org/prb/pdf/10.1103/PhysRevB.84.054305?casa_token=4f21nymi9rIAAAAA%3AFQXPLXASOiUj-PXAmIum1JlwFggxSD5gFvi7e0Wx836uvSvYz3iwo8bwIpZZoSLACPKvtWAog3tjyg) by **Andrea Alu**. 
+- For a discussion on **Kramers-Kronig** relations for multipolar polarizabilities: https://hackmd.io/@aligho/SkebhByH-g (notes on the paper [Causality relations in the homogenization of metamaterials](https://journals.aps.org/prb/pdf/10.1103/PhysRevB.84.054305?casa_token=4f21nymi9rIAAAAA%3AFQXPLXASOiUj-PXAmIum1JlwFggxSD5gFvi7e0Wx836uvSvYz3iwo8bwIpZZoSLACPKvtWAog3tjyg)) by **Andrea Alu**. 
     - For numerical validation see **./spheres/Generalized Kramers Kronig.ipynb** in which we reproduce **Figures 1, 2, and 3** of the paper by **Andrea Alu**. 
 
 **Non-retarded surface plasmons for cylinders**: https://hackmd.io/@aligho/rk6siaGTeg 
