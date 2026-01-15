@@ -1,6 +1,6 @@
 # Coherent-Perfect-Absorption
 
-**Void and sphere plasmons (and their radiative decay)**: https://hackmd.io/@aligho/BJK40peuxl 
+**Void and sphere plasmons (and their radiative decay)**: https://hackmd.io/@aligho/BJK40peuxl. A pdf of this set of notes is in **./pdfs_of_notes/**. 
 - For code, see **./spheres/Void Plasmon Decay.ipynb** where we verify the dispersion and radiative loss for the $H=0.4, 0.8, 1.2, q=1$ dipolar sphere-like and void-like modes in the range $2<R<7$, corresponding **Figure 1** of the paper.
 - Additionally, in **./spheres/Void Plasmon Surface Scattering.ipynb**, we verify **Figure 7** of the paper. In particular, for the fundamental dipolar mode, we calculate the plasmon loss with and without (diffuse) surface scattering.
 
@@ -15,9 +15,9 @@
 - For numerical comparisons between the quasistatic and fully retarded expressions for nanospheres, see **./spheres/radiative_losses.ipynb**
 - The TE plasmon dispersion is also calculated for small spheres (Relevant if the imaginary part of the conductivity can be negative).
 - The plasmon dispersions are used implicitly in **./spheres/cpa through finite surface impedance.ipynb**
-- For a discussion on **Kramers-Kronig** relations for multipolar polarizabilities: https://hackmd.io/@aligho/SkebhByH-g (notes on the paper [Causality relations in the homogenization of metamaterials](https://journals.aps.org/prb/pdf/10.1103/PhysRevB.84.054305?casa_token=4f21nymi9rIAAAAA%3AFQXPLXASOiUj-PXAmIum1JlwFggxSD5gFvi7e0Wx836uvSvYz3iwo8bwIpZZoSLACPKvtWAog3tjyg)) by **Andrea Alu**. 
+- For a discussion on **Kramers-Kronig** relations for multipolar polarizabilities: https://hackmd.io/@aligho/SkebhByH-g (notes on the paper [Causality relations in the homogenization of metamaterials](https://journals.aps.org/prb/pdf/10.1103/PhysRevB.84.054305?casa_token=4f21nymi9rIAAAAA%3AFQXPLXASOiUj-PXAmIum1JlwFggxSD5gFvi7e0Wx836uvSvYz3iwo8bwIpZZoSLACPKvtWAog3tjyg)) by **Andrea Alu**. A pdf of this set of notes is in **./pdfs_of_notes/**.
     - For numerical validation see **./spheres/Generalized Kramers Kronig.ipynb** in which we reproduce **Figures 1, 2, and 3** of the paper by **Andrea Alu**.
-- For a discussion on using the polarizability (with radiation losses included) to model coupled plasmonic chains: https://hackmd.io/@aligho/Skwq_uHH-e
+- For a discussion on using the polarizability (with radiation losses included) to model coupled plasmonic chains: https://hackmd.io/@aligho/Skwq_uHH-e. A pdf of this set of notes is in **./pdfs_of_notes/**.
 
 **Non-retarded surface plasmons for cylinders**: https://hackmd.io/@aligho/rk6siaGTeg 
 
