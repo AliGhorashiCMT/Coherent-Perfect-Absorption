@@ -18,9 +18,7 @@
 - For a discussion on **Kramers-Kronig** relations for multipolar polarizabilities: https://hackmd.io/@aligho/SkebhByH-g (notes on the paper [Causality relations in the homogenization of metamaterials](https://journals.aps.org/prb/pdf/10.1103/PhysRevB.84.054305?casa_token=4f21nymi9rIAAAAA%3AFQXPLXASOiUj-PXAmIum1JlwFggxSD5gFvi7e0Wx836uvSvYz3iwo8bwIpZZoSLACPKvtWAog3tjyg)) by **Andrea Alu**. A pdf of this set of notes is in **./pdfs_of_notes/**.
     - For numerical validation see **./spheres/Generalized Kramers Kronig.ipynb** in which we reproduce **Figures 1, 2, and 3** of the paper by **Andrea Alu**.
 - For a discussion on using the polarizability (with radiation losses included) to model coupled plasmonic chains: https://hackmd.io/@aligho/Skwq_uHH-e. A pdf of this set of notes is in **./pdfs_of_notes/**.
-- Couplied dipole model for a lattice of cylinders: https://hackmd.io/@aligho/HJXva_Dv-e (also includes explanations of some of the results/equations in the paper [Extraordinary optical reflection from sub-wavelength cylinder arrays.
-
-](https://opg.optica.org/oe/fulltext.cfm?uri=oe-14-9-3730)
+- Couplied dipole model for a lattice of cylinders: https://hackmd.io/@aligho/HJXva_Dv-e (also includes explanations of some of the results/equations in the paper [Extraordinary optical reflection from sub-wavelength cylinder arrays.](https://opg.optica.org/oe/fulltext.cfm?uri=oe-14-9-3730)
 
 **Non-retarded surface plasmons for cylinders**: https://hackmd.io/@aligho/rk6siaGTeg 
 
