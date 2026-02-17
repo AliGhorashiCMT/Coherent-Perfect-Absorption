@@ -9,7 +9,7 @@
 - Includes a derivation of nonlocal hydrodynamic corrections for the surface layer.
 - For numerical validation, see **./spheres/graphene coating.ipynb**
 
-**Derivation of non-retarded multipolar polarizability for finite surface impedance**: https://hackmd.io/@aligho/ByCdz6A3ex 
+**Derivation of non-retarded multipolar polarizability for finite surface impedance**: https://hackmd.io/@aligho/ByCdz6A3ex (A pdf of this set of notes is in **./pdfs_of_notes/**)
 
 - Includes derivation of TM plasmon modes in the quasistatic approximation and demonstrates equivalence with the general, retarded, result in the small sphere (as compared to wavelength) limit.
 - For numerical comparisons between the quasistatic and fully retarded expressions for nanospheres, see **./spheres/radiative_losses.ipynb**
