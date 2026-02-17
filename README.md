@@ -18,9 +18,9 @@
 - For a discussion on **Kramers-Kronig** relations for multipolar polarizabilities: https://hackmd.io/@aligho/SkebhByH-g (notes on the paper [Causality relations in the homogenization of metamaterials](https://journals.aps.org/prb/pdf/10.1103/PhysRevB.84.054305?casa_token=4f21nymi9rIAAAAA%3AFQXPLXASOiUj-PXAmIum1JlwFggxSD5gFvi7e0Wx836uvSvYz3iwo8bwIpZZoSLACPKvtWAog3tjyg)) by **Andrea Alu**. A pdf of this set of notes is in **./pdfs_of_notes/**.
     - For numerical validation see **./spheres/Generalized Kramers Kronig.ipynb** in which we reproduce **Figures 1, 2, and 3** of the paper by **Andrea Alu**.
 - For a discussion on using the polarizability (with radiation losses included) to model coupled plasmonic chains: https://hackmd.io/@aligho/Skwq_uHH-e. A pdf of this set of notes is in **./pdfs_of_notes/**.
-- Couplied dipole model for a lattice of cylinders: https://hackmd.io/@aligho/HJXva_Dv-e (Pdf of this is in ./pdfs_of_notes/)
+- Couplied dipole model for a lattice of cylinders: https://hackmd.io/@aligho/HJXva_Dv-e (a pdf of this is in **./pdfs_of_notes/**)
     - Includes notes on the paper: [Extraordinary optical reflection from sub-wavelength cylinder arrays](https://opg.optica.org/directpdfaccess/87a6fce8-e489-4bee-bbbfeae2114ce881_89577/oe-14-9-3730.pdf?da=1&id=89577&seq=0&mobile=no)
-- A potpourri of important identities/proofs related to the electrodynamics of lattices of multipoles: https://hackmd.io/@aligho/HkWVQPID-x (Pdf of this is in ./pdfs_of_notes/)
+- A potpourri of important identities/proofs related to the electrodynamics of lattices of multipoles: https://hackmd.io/@aligho/HkWVQPID-x (a pdf of this is in **./pdfs_of_notes/**)
     - Includes notes on the following papers: [Metasurfaces with Electric Quadrupole and Magnetic Dipole Resonant Coupling](https://pubs.acs.org/doi/pdf/10.1021/acsphotonics.7b01520?casa_token=v04BC17EN1UAAAAA:rnwHOYYYx3r5GktBJd6xuvCDCUcEA9GfVKDMCcOtKI6fIYkbz4y1dhSyHuZg-VkLFQ-OJosvvp2ULT4), [Optical response features of Si-nanoparticle arrays](https://journals.aps.org/prb/pdf/10.1103/PhysRevB.82.045404),[Colloquium: Light scattering by particle and hole arrays](https://journals.aps.org/rmp/pdf/10.1103/RevModPhys.79.1267)
 
 **Non-retarded surface plasmons for cylinders**: https://hackmd.io/@aligho/rk6siaGTeg 
