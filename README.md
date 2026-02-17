@@ -65,7 +65,7 @@
 
 **CPA for graphene multilayers (prediction)**: https://hackmd.io/@aligho/HyMyvezclx 
 
-**CPA sum rule in 2D**: https://hackmd.io/@aligho/BJCvem1hll
+**CPA sum rule in 2D**: https://hackmd.io/@aligho/BJCvem1hll A pdf of this set of notes is in **./pdfs_of_notes/**.  
 
 **Cloacking for (long) cylindrical scatterers**: https://hackmd.io/@aligho/B1Gs5Cz2el
 
