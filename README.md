@@ -35,7 +35,7 @@
 **Demonstration that radiative decay rates through two different methods are equivalent**: 
 
 - For bulk permittivities: https://hackmd.io/@aligho/Bkq90Xxybx (a pdf of this document is in **./pdfs_of_notes/**).
-- For finite surface impedance: https://hackmd.io/@aligho/HyiKTnQkbe
+- For finite surface impedance: https://hackmd.io/@aligho/HyiKTnQkbe (a pdf of this document is in **./pdfs_of_notes/**).
 
 **Radiative decay for photonic crystal leaky modes**:
 
