@@ -76,5 +76,5 @@ finds both the general expressions for the scattering coefficients and also thei
 
 **Modes of the universe approach**: https://hackmd.io/@aligho/rySmTBry-x
 
-**Miscellaneous Notes**: Anisotropic dielectrics: https://hackmd.io/@aligho/BkfSXAi0xl, https://hackmd.io/@aligho/SJ6BpiaCgx (a pdf of this document is in **./pdfs_of_notes/**)
+**Miscellaneous Notes**: Anisotropic dielectrics: https://hackmd.io/@aligho/BkfSXAi0xl (a pdf of this document is in **./pdfs_of_notes/**), https://hackmd.io/@aligho/SJ6BpiaCgx (a pdf of this document is in **./pdfs_of_notes/**).
 
