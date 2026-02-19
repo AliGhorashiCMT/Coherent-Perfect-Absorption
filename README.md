@@ -4,7 +4,8 @@
 - For code, see **./spheres/Void Plasmon Decay.ipynb** where we verify the dispersion and radiative loss for the $H=0.4, 0.8, 1.2, q=1$ dipolar sphere-like and void-like modes in the range $2<R<7$, corresponding **Figure 1** of the paper.
 - Additionally, in **./spheres/Void Plasmon Surface Scattering.ipynb**, we verify **Figure 7** of the paper. In particular, for the fundamental dipolar mode, we calculate the plasmon loss with and without (diffuse) surface scattering.
 
-**Graphene coated nanospheres**: https://hackmd.io/@aligho/ByRl-iJ_ge  (A pdf of this set of notes is in **./pdfs_of_notes/**)
+**Graphene coated nanospheres**: https://hackmd.io/@aligho/ByRl-iJ_ge. This set of notes concerns the paper [Localized plasmons in graphene-coated nanospheres](https://journals.aps.org/prb/pdf/10.1103/PhysRevB.91.125414).
+ (A pdf of this set of notes is in **./pdfs_of_notes/**)
 - Includes derivation of TM (no radial magnetic field) and TE (no radial electric field) scattering coefficients in the presence of finite surface conductivity.
 - Includes a derivation of nonlocal hydrodynamic corrections for the surface layer.
 - For numerical validation, see **./spheres/graphene coating.ipynb**
