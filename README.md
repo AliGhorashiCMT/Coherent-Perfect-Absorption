@@ -40,7 +40,8 @@
 
 **Radiative decay for photonic crystal leaky modes**:
 
-- https://hackmd.io/@aligho/rJXEdoObbg
+- https://hackmd.io/@aligho/rJXEdoObbg This set of notes contains explanations on the paper [Nearly free-photon approximation for two-dimensional photonic crystal slabs
+](https://link.aps.org/pdf/10.1103/PhysRevB.64.045108?casa_token=KEHf3djAdGMAAAAA:T_xApBgLfdw8dMs1SKbaoDatljLS4qbNSl_k91XndY0hHcei7Kwbaoh-BZcaJvc8BsrRIJHwgUct-Gk) by **Ochiai and K. Sakoda** as well as the paper [Photonic-crystal slabs with a triangular lattice of triangular holes investigated using a guided-mode expansion method](https://link.aps.org/pdf/10.1103/PhysRevB.73.235114?casa_token=arXRw1d3YfsAAAAA:05tQftGqAnJrkoZ59fKwfWk-kJL2CrXv1deid7L_wJ2tJLm_ejEt0MUHdDuf5HkllnXpGueTJReF4DE) by **Andreani and Gerace**
 
 **CPA for thin films, cylinders and spheres**: https://hackmd.io/@aligho/SymTGLcPxg
 
@@ -73,7 +74,7 @@
 - Expressions derived in this set of notes are used in **./cylinders/cpa through finite surface impedance.ipynb**. In particular, this set of notes
 finds both the general expressions for the scattering coefficients and also their large $a\omega/c$ asymptotic expansions. 
 
-**Derivation of hydrodynamic equation for plasmons**: https://hackmd.io/@aligho/rk4PhV1jel (A pdf of this set of notes is in **./pdfs_of_notes/**)
+**Derivation of hydrodynamic equation for plasmons**: https://hackmd.io/@aligho/rk4PhV1jel (A pdf of this set of notes is in **./pdfs_of_notes/**).
     
 - Includes discussion on the following papers/books: [The Hydrodynamic Approach for Plasmonics in Graphene
 ](https://www.proquest.com/docview/2917520241?%20Theses&fromopenview=true&pq-origsite=gscholar&sourcetype=Dissertations%20) (Master's thesis by **Pedro Passos**), [Unusual resonances in nanoplasmonic structures due to nonlocal response](https://journals.aps.org/prb/pdf/10.1103/PhysRevB.84.121412?casa_token=LI3ua9Xq_tsAAAAA%3AU2TYIB471bO0JwfQ5mgmTD9A_FgWQBaRiu2ENBTQ0YHJfw3c_Vg-3fwBm-J93HGopKh3ZaIVHAPMcQ), [Electrodynamics of a Layered Electron Gas. I. Single Layer](https://www.sciencedirect.com/science/article/pii/0003491673901619) by **Alexander Fetter**, [Electromagnetic Surface Modes](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ia601409.us.archive.org/12/items/in.ernet.dli.2015.148030/2015.148030.Electromagnetic-Surface-Modes.pdf&ved=2ahUKEwj-t4Pvs9aPAxXkD1kFHZ6oFk0QFnoECB4QAQ&usg=AOvVaw3lVFcvFjjy3p2Me4T824Kv) by **Boardman**, [Classical and Quantum Plasmonics in Graphene Nanodisks:
