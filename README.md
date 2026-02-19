@@ -48,7 +48,7 @@
 **CPA at large $\omega a/c$ (large radius as compared to wavelength) for spheres with finite surface impedance**: https://hackmd.io/@aligho/HkO2bPW6ex
 - For numerical validation, see **./spheres/cpa through finite surface impedance.ipynb**
 
-**Conservation of energy for CPA in thin films**: https://hackmd.io/@aligho/rkFKOwoFgg 
+**Conservation of energy for CPA in thin films**: https://hackmd.io/@aligho/rkFKOwoFgg Includes discussion on the paper: [Ultrathin broadband nearly perfect absorber with symmetrical coherent illumination](https://opg.optica.org/viewmedia.cfm?seq=0&uri=oe-20-3-2246) by **Pu et al**. 
 
 - Also includes a discussion on scaling of scattering time/plasma frequency for doped semiconductors. 
 - In addition, we discuss the plasma and Woltersdorff thicknesses and evaluate them in specific cases. 
