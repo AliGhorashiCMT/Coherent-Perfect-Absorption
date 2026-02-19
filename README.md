@@ -82,5 +82,5 @@ the Role of Edge States](https://link.aps.org/pdf/10.1103/PhysRevB.90.241414?cas
 
 **Modes of the universe approach**: https://hackmd.io/@aligho/rySmTBry-x
 
-**Miscellaneous Notes**: Anisotropic dielectrics: https://hackmd.io/@aligho/BkfSXAi0xl (a pdf of this document is in **./pdfs_of_notes/**), https://hackmd.io/@aligho/SJ6BpiaCgx (a pdf of this document is in **./pdfs_of_notes/**).
+**Miscellaneous Notes**: Anisotropic dielectrics: https://hackmd.io/@aligho/BkfSXAi0xl (this set of notes primarily concerns a paper by **Eugene Mele**: [Screening of a point charge by an anisotropic medium: Anamorphoses in the method of images](https://pubs.aip.org/aapt/ajp/article-pdf/69/5/557/7529693/557_1_online.pdf); a pdf of this document is in **./pdfs_of_notes/**), https://hackmd.io/@aligho/SJ6BpiaCgx (a pdf of this document is in **./pdfs_of_notes/**).
 
