@@ -73,6 +73,9 @@
 finds both the general expressions for the scattering coefficients and also their large $a\omega/c$ asymptotic expansions. 
 
 **Derivation of hydrodynamic equation for plasmons**: https://hackmd.io/@aligho/rk4PhV1jel
+    - Includes discussion on the following papers/books: [The Hydrodynamic Approach for Plasmonics in Graphene
+](https://www.proquest.com/docview/2917520241?%20Theses&fromopenview=true&pq-origsite=gscholar&sourcetype=Dissertations%20) (Master's thesis by Pedro Passos), [Unusual resonances in nanoplasmonic structures due to nonlocal response](https://journals.aps.org/prb/pdf/10.1103/PhysRevB.84.121412?casa_token=LI3ua9Xq_tsAAAAA%3AU2TYIB471bO0JwfQ5mgmTD9A_FgWQBaRiu2ENBTQ0YHJfw3c_Vg-3fwBm-J93HGopKh3ZaIVHAPMcQ), [Electrodynamics of a Layered Electron Gas. I. Single Layer](https://www.sciencedirect.com/science/article/pii/0003491673901619) by **Alexander Fetter**, [Electromagnetic Surface Modes](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ia601409.us.archive.org/12/items/in.ernet.dli.2015.148030/2015.148030.Electromagnetic-Surface-Modes.pdf&ved=2ahUKEwj-t4Pvs9aPAxXkD1kFHZ6oFk0QFnoECB4QAQ&usg=AOvVaw3lVFcvFjjy3p2Me4T824Kv) by **Boardman**, [Classical and Quantum Plasmonics in Graphene Nanodisks:
+the Role of Edge States](https://link.aps.org/pdf/10.1103/PhysRevB.90.241414?casa_token=GwqXhy0kCv0AAAAA:C1i4xZyQE8U6sSKjdi09B3rh_8K0unbxdCOWhalyFgpAzlQbIvZ9I2nNmsKJxudWAzDroHfZi3uBclg)
 
 **Modes of the universe approach**: https://hackmd.io/@aligho/rySmTBry-x
 
