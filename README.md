@@ -35,7 +35,7 @@
 
 **Demonstration that radiative decay rates through two different methods are equivalent**: 
 
-- For bulk permittivities: https://hackmd.io/@aligho/Bkq90Xxybx (a pdf of this document is in **./pdfs_of_notes/**).
+- For bulk permittivities: https://hackmd.io/@aligho/Bkq90Xxybx (a pdf of this document is in **./pdfs_of_notes/**). This set of notes also involves some discussion of the following papers by **Jacob Khurgin**: [Electroluminescence efficiency enhancement using metal nanoparticles](https://pubs.aip.org/aip/apl/article/93/2/021120/336422) and [Impact of high-order surface plasmon modes of metal nanoparticles on enhancement of optical emission](https://pubs.aip.org/aip/apl/article/95/17/171103/321136).
 - For finite surface impedance: https://hackmd.io/@aligho/HyiKTnQkbe (a pdf of this document is in **./pdfs_of_notes/**).
 
 **Radiative decay for photonic crystal leaky modes**:
