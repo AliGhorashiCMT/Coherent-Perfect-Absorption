@@ -62,7 +62,7 @@
 
 **Derivation of Feibelman d-parameters**: https://hackmd.io/@aligho/rJnJYnKixl
 
-**Lowest order corrections to surface plasmon dispersions due to d-parameters and hydrodynamic pressure**: https://hackmd.io/@aligho/B1DdxSe3gg
+**Lowest order corrections to surface plasmon dispersions due to d-parameters and hydrodynamic pressure**: https://hackmd.io/@aligho/B1DdxSe3gg (A pdf of this set of notes is in **./pdfs_of_notes/**). 
 
 **Mie scattering coefficients with Feibelman d-parameters**: https://hackmd.io/@aligho/Bke9op__lx
 
