@@ -56,6 +56,7 @@
 **Nonlocal corrections to plasmons in spheres**: https://hackmd.io/@aligho/BJ8qUUMOgg
 
 **Nonlocal corrections for SPPs in various configurations of flat metal-insulator boundaries**: https://hackmd.io/@aligho/HJdkkZS_xl (A pdf of this set of notes is in **./pdfs_of_notes/**). 
+ - Includes a discussion on the following paper: [Nonlocal response in thin-film waveguides: Loss versus nonlocality and breaking of complementarity](https://journals.aps.org/prb/pdf/10.1103/PhysRevB.88.115401) by **Raza, Christensen, et al**
 
 **Feibelman d-parameters**: https://hackmd.io/@aligho/BJKFkQdOgx
 
