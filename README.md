@@ -55,7 +55,7 @@
 
 **Nonlocal corrections to plasmons in spheres**: https://hackmd.io/@aligho/BJ8qUUMOgg
 
-**Nonlocal corrections for SPPs in various configurations of flat metal-insulator boundaries**: https://hackmd.io/@aligho/HJdkkZS_xl
+**Nonlocal corrections for SPPs in various configurations of flat metal-insulator boundaries**: https://hackmd.io/@aligho/HJdkkZS_xl (A pdf of this set of notes is in **./pdfs_of_notes/**). 
 
 **Feibelman d-parameters**: https://hackmd.io/@aligho/BJKFkQdOgx
 
