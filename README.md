@@ -44,7 +44,7 @@
 - https://hackmd.io/@aligho/rJXEdoObbg This set of notes contains explanations on the paper [Nearly free-photon approximation for two-dimensional photonic crystal slabs
 ](https://link.aps.org/pdf/10.1103/PhysRevB.64.045108?casa_token=KEHf3djAdGMAAAAA:T_xApBgLfdw8dMs1SKbaoDatljLS4qbNSl_k91XndY0hHcei7Kwbaoh-BZcaJvc8BsrRIJHwgUct-Gk) by **Ochiai and K. Sakoda** as well as the paper [Photonic-crystal slabs with a triangular lattice of triangular holes investigated using a guided-mode expansion method](https://link.aps.org/pdf/10.1103/PhysRevB.73.235114?casa_token=arXRw1d3YfsAAAAA:05tQftGqAnJrkoZ59fKwfWk-kJL2CrXv1deid7L_wJ2tJLm_ejEt0MUHdDuf5HkllnXpGueTJReF4DE) by **Andreani and Gerace**
 
-**CPA for thin films, cylinders and spheres**: https://hackmd.io/@aligho/SymTGLcPxg
+**CPA for thin films, cylinders and spheres**: https://hackmd.io/@aligho/SymTGLcPxg (a pdf of this document is in **./pdfs_of_notes/**).
 
 **CPA at large $\omega a/c$ (large radius as compared to wavelength) for spheres with finite surface impedance**: https://hackmd.io/@aligho/HkO2bPW6ex
 - For numerical validation, see **./spheres/cpa through finite surface impedance.ipynb**
