@@ -1,6 +1,7 @@
 # Coherent-Perfect-Absorption
 
-**Void and sphere plasmons (and their radiative decay)**: https://hackmd.io/@aligho/BJK40peuxl. This set of notes concerns the paper [Radiative decay of plasmons in a metallic nanoshell](https://link.aps.org/pdf/10.1103/PhysRevB.69.155402?casa_token=ysrofqx3MhMAAAAA:PO2xtgoR8T6w5glk_0FlmUHMIk5X6qtD1tdgkH6TqaDN3p0EXLMs_s-OFhfZkDREXNWQ3-83KUphDw) by **Teperik, Popov and de Abajo**. For posterity, a pdf of this set of notes is in **./pdfs_of_notes/**. 
+**Void and sphere plasmons (and their radiative decay)**: https://hackmd.io/@aligho/BJK40peuxl. This set of notes concerns the paper [Radiative decay of plasmons in a metallic nanoshell](https://link.aps.org/pdf/10.1103/PhysRevB.69.155402?casa_token=ysrofqx3MhMAAAAA:PO2xtgoR8T6w5glk_0FlmUHMIk5X6qtD1tdgkH6TqaDN3p0EXLMs_s-OFhfZkDREXNWQ3-83KUphDw) by **Teperik, Popov and de Abajo**. 
+- For posterity, a pdf of this set of notes is in **./pdfs_of_notes/**. 
 - For code, see **./spheres/Void Plasmon Decay.ipynb** where we verify the dispersion and radiative loss for the $H=0.4, 0.8, 1.2, q=1$ dipolar sphere-like and void-like modes in the range $2<R<7$, corresponding **Figure 1** of the paper.
 - Additionally, in **./spheres/Void Plasmon Surface Scattering.ipynb**, we verify **Figure 7** of the paper. In particular, for the fundamental dipolar mode, we calculate the plasmon loss with and without (diffuse) surface scattering.
 - Notes on surface scattering: https://hackmd.io/@aligho/BkLmTZFubx (A pdf of this set of notes is in **./pdfs_of_notes/**). The last figure in the paper above denotes the impact of surface scattering in nanoshells. Unfortunately, the formula used has a typo. In this set of notes, we derive the correct formula. 
