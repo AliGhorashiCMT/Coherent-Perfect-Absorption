@@ -8,7 +8,7 @@
 - Notes on surface scattering: https://hackmd.io/@aligho/BkLmTZFubx (A pdf of this set of notes is in **./pdfs_of_notes/**). The last figure in the paper above denotes the impact of surface scattering in nanoshells. Unfortunately, the formula used has a typo. In this set of notes, we derive the correct formula. 
 
 **Graphene coated nanospheres**: https://hackmd.io/@aligho/ByRl-iJ_ge. 
-- This set of notes concerns the paper [Localized plasmons in graphene-coated nanospheres](https://journals.aps.org/prb/pdf/10.1103/PhysRevB.91.125414).
+- This set of notes concerns the paper [Localized plasmons in graphene-coated nanospheres](https://journals.aps.org/prb/pdf/10.1103/PhysRevB.91.125414) by **Christensen et al**.
 - For posterity, a pdf of this set of notes is in **./pdfs_of_notes/**. 
 - Includes derivation of TM (no radial magnetic field) and TE (no radial electric field) scattering coefficients in the presence of finite surface conductivity.
 - Includes a derivation of nonlocal hydrodynamic corrections for the surface layer.
@@ -49,7 +49,9 @@
 ](https://link.aps.org/pdf/10.1103/PhysRevB.64.045108?casa_token=KEHf3djAdGMAAAAA:T_xApBgLfdw8dMs1SKbaoDatljLS4qbNSl_k91XndY0hHcei7Kwbaoh-BZcaJvc8BsrRIJHwgUct-Gk) by **Ochiai and K. Sakoda** as well as the paper [Photonic-crystal slabs with a triangular lattice of triangular holes investigated using a guided-mode expansion method](https://link.aps.org/pdf/10.1103/PhysRevB.73.235114?casa_token=arXRw1d3YfsAAAAA:05tQftGqAnJrkoZ59fKwfWk-kJL2CrXv1deid7L_wJ2tJLm_ejEt0MUHdDuf5HkllnXpGueTJReF4DE) by **Andreani and Gerace**
 
 **CPA for thin films, cylinders and spheres**: https://hackmd.io/@aligho/SymTGLcPxg 
-- For posterity, a pdf of this set of notes is in **./pdfs_of_notes/**. 
+- For posterity, a pdf of this set of notes is in **./pdfs_of_notes/**.
+- Includes a discussion on the paper: [Ultrathin broadband nearly perfect absorber with symmetrical coherent illumination](https://opg.optica.org/viewmedia.cfm?seq=0&uri=oe-20-3-2246) by **Pu et al**. 
+- Includes a discussion on the paper: [Perfect coupling of light to surface plasmons by coherent absorption](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.108.186805) by **Noh et al**. 
 
 **CPA at large $\omega a/c$ (large radius as compared to wavelength) for spheres with finite surface impedance**: https://hackmd.io/@aligho/HkO2bPW6ex 
 - For posterity, a pdf of this set of notes is in **./pdfs_of_notes/**. 
@@ -72,6 +74,12 @@
 - For posterity, a pdf of this set of notes is in **./pdfs_of_notes/**. 
 
 **Derivation of Feibelman d-parameters**: https://hackmd.io/@aligho/rJnJYnKixl
+- Includes discussion on the following papers: 
+    - [DIFFERENTIAL REFLECTION SPECTROSCOPY OF VERY THIN SURFACE FILMS](https://www.sciencedirect.com/science/article/pii/003960287190272X) by **McIntyre and Aspnes**, 
+    - [Quantum Corrections in Nanoplasmonics: Shape, Scale, and Material](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.118.157402#supplemental) by **Christensen**, 
+    - [Surface Electromagnetic Fields](https://www.sciencedirect.com/science/article/pii/0079681682900016) and [Exact microscopic theory of surface contributions to the reflectivity of a jellium solid](https://journals.aps.org/prb/pdf/10.1103/PhysRevB.14.762) both by **Feibelman**, 
+    - [Modeling photomolecular effect using generalized boundary conditions for Maxwell equations](https://www.nature.com/articles/s42005-024-01826-z.pdf) by **Chen** and, lastly, 
+    - [Plasmonics and Light–Matter Interactions in Two-Dimensional Materials and in Metal Nanostructures](https://link.springer.com/book/10.1007/978-3-030-38291-9) by **Goncalves** (a PhD thesis which covers similar ground as the paper by **Christensen**).
 
 **Lowest order corrections to surface plasmon dispersions due to d-parameters and hydrodynamic pressure**: https://hackmd.io/@aligho/B1DdxSe3gg
 - For posterity, a pdf of this set of notes is in **./pdfs_of_notes/**. 
