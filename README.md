@@ -59,14 +59,16 @@
 
 **Nonlocal corrections to plasmons in spheres**: https://hackmd.io/@aligho/BJ8qUUMOgg
 
-**Nonlocal corrections for SPPs in various configurations of flat metal-insulator boundaries**: https://hackmd.io/@aligho/HJdkkZS_xl (A pdf of this set of notes is in **./pdfs_of_notes/**). 
- - Includes a discussion on the following paper: [Nonlocal response in thin-film waveguides: Loss versus nonlocality and breaking of complementarity](https://journals.aps.org/prb/pdf/10.1103/PhysRevB.88.115401) by **Raza, Christensen, et al**
+**Nonlocal corrections for SPPs in various configurations of flat metal-insulator boundaries**: https://hackmd.io/@aligho/HJdkkZS_xl 
+- For posterity, a pdf of this set of notes is in **./pdfs_of_notes/**. 
+- Includes a discussion on the following paper: [Nonlocal response in thin-film waveguides: Loss versus nonlocality and breaking of complementarity](https://journals.aps.org/prb/pdf/10.1103/PhysRevB.88.115401) by **Raza, Christensen, et al**
 
 **Feibelman d-parameters**: https://hackmd.io/@aligho/BJKFkQdOgx
 
 **Derivation of Feibelman d-parameters**: https://hackmd.io/@aligho/rJnJYnKixl
 
-**Lowest order corrections to surface plasmon dispersions due to d-parameters and hydrodynamic pressure**: https://hackmd.io/@aligho/B1DdxSe3gg (A pdf of this set of notes is in **./pdfs_of_notes/**). 
+**Lowest order corrections to surface plasmon dispersions due to d-parameters and hydrodynamic pressure**: https://hackmd.io/@aligho/B1DdxSe3gg
+- For posterity, a pdf of this set of notes is in **./pdfs_of_notes/**. 
 
 **Mie scattering coefficients with Feibelman d-parameters**: https://hackmd.io/@aligho/Bke9op__lx
 
@@ -88,5 +90,11 @@ the Role of Edge States](https://link.aps.org/pdf/10.1103/PhysRevB.90.241414?cas
 
 **Modes of the universe approach**: https://hackmd.io/@aligho/rySmTBry-x
 
-**Miscellaneous Notes**: Anisotropic dielectrics: https://hackmd.io/@aligho/BkfSXAi0xl (this set of notes primarily concerns a paper by **Eugene Mele**: [Screening of a point charge by an anisotropic medium: Anamorphoses in the method of images](https://pubs.aip.org/aapt/ajp/article-pdf/69/5/557/7529693/557_1_online.pdf); a pdf of this document is in **./pdfs_of_notes/**), https://hackmd.io/@aligho/SJ6BpiaCgx (a pdf of this document is in **./pdfs_of_notes/**).
+**Notes on the effect of anisotropicity**: 
+- Anisotropic dielectrics: https://hackmd.io/@aligho/BkfSXAi0xl (this set of notes primarily concerns a paper by **Eugene Mele**: [Screening of a point charge by an anisotropic medium: Anamorphoses in the method of images](https://pubs.aip.org/aapt/ajp/article-pdf/69/5/557/7529693/557_1_online.pdf))
+    - For posterity, a pdf of this set of notes is in **./pdfs_of_notes/**.  
+-  https://hackmd.io/@aligho/SJ6BpiaCgx
+    - For posterity, a pdf of this set of notes is in **./pdfs_of_notes/**. 
+
+    
 
