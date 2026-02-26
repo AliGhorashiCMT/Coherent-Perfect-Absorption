@@ -62,12 +62,14 @@
 - In addition, we discuss the plasma and Woltersdorff thicknesses and evaluate them in specific cases. 
 
 **Nonlocal corrections to plasmons in spheres**: https://hackmd.io/@aligho/BJ8qUUMOgg
+- For posterity, a pdf of this set of notes is in **./pdfs_of_notes/**. 
 
 **Nonlocal corrections for SPPs in various configurations of flat metal-insulator boundaries**: https://hackmd.io/@aligho/HJdkkZS_xl 
 - For posterity, a pdf of this set of notes is in **./pdfs_of_notes/**. 
 - Includes a discussion on the following paper: [Nonlocal response in thin-film waveguides: Loss versus nonlocality and breaking of complementarity](https://journals.aps.org/prb/pdf/10.1103/PhysRevB.88.115401) by **Raza, Christensen, et al**
 
 **Feibelman d-parameters**: https://hackmd.io/@aligho/BJKFkQdOgx
+- For posterity, a pdf of this set of notes is in **./pdfs_of_notes/**. 
 
 **Derivation of Feibelman d-parameters**: https://hackmd.io/@aligho/rJnJYnKixl
 
@@ -75,6 +77,7 @@
 - For posterity, a pdf of this set of notes is in **./pdfs_of_notes/**. 
 
 **Mie scattering coefficients with Feibelman d-parameters**: https://hackmd.io/@aligho/Bke9op__lx
+- For posterity, a pdf of this set of notes is in **./pdfs_of_notes/**. 
 
 **CPA for graphene multilayers (prediction)**: https://hackmd.io/@aligho/HyMyvezclx 
 
