@@ -73,7 +73,11 @@
 - Includes a discussion on the following paper: [Nonlocal response in thin-film waveguides: Loss versus nonlocality and breaking of complementarity](https://journals.aps.org/prb/pdf/10.1103/PhysRevB.88.115401) by **Raza, Christensen, et al**
 
 **Feibelman d-parameters**: https://hackmd.io/@aligho/BJKFkQdOgx
-- For posterity, a pdf of this set of notes is in **./pdfs_of_notes/**. 
+- For posterity, a pdf of this set of notes is in **./pdfs_of_notes/**.
+- Includes notes on the following papers:
+    - [Quantum Corrections in Plasmonics and Plasmon–Emitter Interactions](https://link.springer.com/chapter/10.1007/978-3-030-38291-9_8) 
+    - [A general theoretical and experimental framework for nanoscale electromagnetism](https://www.nature.com/articles/s41586-019-1803-1#MOESM1) 
+    - [Plasmon–emitter interactions at the nanoscale](https://www.nature.com/articles/s41467-019-13820-z#MOESM2) 
 
 **Derivation of Feibelman d-parameters**: https://hackmd.io/@aligho/rJnJYnKixl
 - Includes discussion on the following papers: 
