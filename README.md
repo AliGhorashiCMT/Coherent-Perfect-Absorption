@@ -25,7 +25,7 @@
 - A potpourri of important identities/proofs related to the electrodynamics of lattices of multipoles: https://hackmd.io/@aligho/HkWVQPID-x (a pdf of this is in **./pdfs_of_notes/**)
     - Includes notes on the following papers: [Metasurfaces with Electric Quadrupole and Magnetic Dipole Resonant Coupling](https://pubs.acs.org/doi/pdf/10.1021/acsphotonics.7b01520?casa_token=v04BC17EN1UAAAAA:rnwHOYYYx3r5GktBJd6xuvCDCUcEA9GfVKDMCcOtKI6fIYkbz4y1dhSyHuZg-VkLFQ-OJosvvp2ULT4) by **Babicheva and Andrey B. Evlyukhin**, [Optical response features of Si-nanoparticle arrays](https://journals.aps.org/prb/pdf/10.1103/PhysRevB.82.045404) by **Evlyukhin et al**, and [Colloquium: Light scattering by particle and hole arrays](https://journals.aps.org/rmp/pdf/10.1103/RevModPhys.79.1267), which is a review paper by **de Abajo**.
 
-**Non-retarded surface plasmons for cylinders**: https://hackmd.io/@aligho/rk6siaGTeg 
+**Non-retarded surface plasmons for cylinders**: https://hackmd.io/@aligho/rk6siaGTeg (A pdf of this set of notes is in **./pdfs_of_notes/**)
 
 - Demonstrates equivalence of the fully retarded and quasistatic TM plasmon dispersions for small cylinders.
 - The TE plasmon dispersion for small cylinders is also calculated.
