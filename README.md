@@ -46,7 +46,7 @@
 
 **CPA for thin films, cylinders and spheres**: https://hackmd.io/@aligho/SymTGLcPxg (a pdf of this document is in **./pdfs_of_notes/**).
 
-**CPA at large $\omega a/c$ (large radius as compared to wavelength) for spheres with finite surface impedance**: https://hackmd.io/@aligho/HkO2bPW6ex
+**CPA at large $\omega a/c$ (large radius as compared to wavelength) for spheres with finite surface impedance**: https://hackmd.io/@aligho/HkO2bPW6ex (A pdf of this set of notes is in **./pdfs_of_notes/**)
 - For numerical validation, see **./spheres/cpa through finite surface impedance.ipynb**
 
 **Conservation of energy for CPA in thin films**: https://hackmd.io/@aligho/rkFKOwoFgg Includes discussion on the paper: [Ultrathin broadband nearly perfect absorber with symmetrical coherent illumination](https://opg.optica.org/viewmedia.cfm?seq=0&uri=oe-20-3-2246) by **Pu et al**. 
