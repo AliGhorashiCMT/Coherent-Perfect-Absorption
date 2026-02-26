@@ -7,13 +7,13 @@
 - Notes on surface scattering: https://hackmd.io/@aligho/BkLmTZFubx (A pdf of this set of notes is in **./pdfs_of_notes/**). The last figure in the paper above denotes the impact of surface scattering in nanoshells. Unfortunately, the formula used has a typo. In this set of notes, we derive the correct formula. 
 
 **Graphene coated nanospheres**: https://hackmd.io/@aligho/ByRl-iJ_ge. This set of notes concerns the paper [Localized plasmons in graphene-coated nanospheres](https://journals.aps.org/prb/pdf/10.1103/PhysRevB.91.125414).
- (A pdf of this set of notes is in **./pdfs_of_notes/**)
+- For posterity, a pdf of this set of notes is in **./pdfs_of_notes/**. 
 - Includes derivation of TM (no radial magnetic field) and TE (no radial electric field) scattering coefficients in the presence of finite surface conductivity.
 - Includes a derivation of nonlocal hydrodynamic corrections for the surface layer.
 - For numerical validation, see **./spheres/graphene coating.ipynb**
 
-**Derivation of non-retarded multipolar polarizability for finite surface impedance**: https://hackmd.io/@aligho/ByCdz6A3ex (A pdf of this set of notes is in **./pdfs_of_notes/**)
-
+**Derivation of non-retarded multipolar polarizability for finite surface impedance**: https://hackmd.io/@aligho/ByCdz6A3ex
+- For posterity, a pdf of this set of notes is in **./pdfs_of_notes/**. 
 - Includes derivation of TM plasmon modes in the quasistatic approximation and demonstrates equivalence with the general, retarded, result in the small sphere (as compared to wavelength) limit.
 - For numerical comparisons between the quasistatic and fully retarded expressions for nanospheres, see **./spheres/radiative_losses.ipynb**
 - The TE plasmon dispersion is also calculated for small spheres (Relevant if the imaginary part of the conductivity can be negative).
@@ -26,8 +26,8 @@
 - A potpourri of important identities/proofs related to the electrodynamics of lattices of multipoles: https://hackmd.io/@aligho/HkWVQPID-x (a pdf of this is in **./pdfs_of_notes/**)
     - Includes notes on the following papers: [Metasurfaces with Electric Quadrupole and Magnetic Dipole Resonant Coupling](https://pubs.acs.org/doi/pdf/10.1021/acsphotonics.7b01520?casa_token=v04BC17EN1UAAAAA:rnwHOYYYx3r5GktBJd6xuvCDCUcEA9GfVKDMCcOtKI6fIYkbz4y1dhSyHuZg-VkLFQ-OJosvvp2ULT4) by **Babicheva and Andrey B. Evlyukhin**, [Optical response features of Si-nanoparticle arrays](https://journals.aps.org/prb/pdf/10.1103/PhysRevB.82.045404) by **Evlyukhin et al**, and [Colloquium: Light scattering by particle and hole arrays](https://journals.aps.org/rmp/pdf/10.1103/RevModPhys.79.1267), which is a review paper by **de Abajo**.
 
-**Non-retarded surface plasmons for cylinders**: https://hackmd.io/@aligho/rk6siaGTeg (A pdf of this set of notes is in **./pdfs_of_notes/**)
-
+**Non-retarded surface plasmons for cylinders**: https://hackmd.io/@aligho/rk6siaGTeg
+- For posterity, a pdf of this set of notes is in **./pdfs_of_notes/**. 
 - Demonstrates equivalence of the fully retarded and quasistatic TM plasmon dispersions for small cylinders.
 - The TE plasmon dispersion for small cylinders is also calculated.
 - For numerical validation, see **./cylinders/surface_plasmons.ipynb**
@@ -45,13 +45,15 @@
 - https://hackmd.io/@aligho/rJXEdoObbg This set of notes contains explanations on the paper [Nearly free-photon approximation for two-dimensional photonic crystal slabs
 ](https://link.aps.org/pdf/10.1103/PhysRevB.64.045108?casa_token=KEHf3djAdGMAAAAA:T_xApBgLfdw8dMs1SKbaoDatljLS4qbNSl_k91XndY0hHcei7Kwbaoh-BZcaJvc8BsrRIJHwgUct-Gk) by **Ochiai and K. Sakoda** as well as the paper [Photonic-crystal slabs with a triangular lattice of triangular holes investigated using a guided-mode expansion method](https://link.aps.org/pdf/10.1103/PhysRevB.73.235114?casa_token=arXRw1d3YfsAAAAA:05tQftGqAnJrkoZ59fKwfWk-kJL2CrXv1deid7L_wJ2tJLm_ejEt0MUHdDuf5HkllnXpGueTJReF4DE) by **Andreani and Gerace**
 
-**CPA for thin films, cylinders and spheres**: https://hackmd.io/@aligho/SymTGLcPxg (a pdf of this document is in **./pdfs_of_notes/**).
+**CPA for thin films, cylinders and spheres**: https://hackmd.io/@aligho/SymTGLcPxg 
+- For posterity, a pdf of this set of notes is in **./pdfs_of_notes/**. 
 
-**CPA at large $\omega a/c$ (large radius as compared to wavelength) for spheres with finite surface impedance**: https://hackmd.io/@aligho/HkO2bPW6ex (A pdf of this set of notes is in **./pdfs_of_notes/**)
+**CPA at large $\omega a/c$ (large radius as compared to wavelength) for spheres with finite surface impedance**: https://hackmd.io/@aligho/HkO2bPW6ex 
+- For posterity, a pdf of this set of notes is in **./pdfs_of_notes/**. 
 - For numerical validation, see **./spheres/cpa through finite surface impedance.ipynb**
 
-**Conservation of energy for CPA in thin films**: https://hackmd.io/@aligho/rkFKOwoFgg Includes discussion on the paper: [Ultrathin broadband nearly perfect absorber with symmetrical coherent illumination](https://opg.optica.org/viewmedia.cfm?seq=0&uri=oe-20-3-2246) by **Pu et al**. A pdf of this set of notes is in **./pdfs_of_notes/**.
-
+**Conservation of energy for CPA in thin films**: https://hackmd.io/@aligho/rkFKOwoFgg Includes discussion on the paper: [Ultrathin broadband nearly perfect absorber with symmetrical coherent illumination](https://opg.optica.org/viewmedia.cfm?seq=0&uri=oe-20-3-2246) by **Pu et al**. 
+- For posterity, a pdf of this set of notes is in **./pdfs_of_notes/**. 
 - Also includes a discussion on scaling of scattering time/plasma frequency for doped semiconductors. 
 - In addition, we discuss the plasma and Woltersdorff thicknesses and evaluate them in specific cases. 
 
@@ -70,15 +72,16 @@
 
 **CPA for graphene multilayers (prediction)**: https://hackmd.io/@aligho/HyMyvezclx 
 
-**CPA sum rule in 2D**: https://hackmd.io/@aligho/BJCvem1hll A pdf of this set of notes is in **./pdfs_of_notes/**.  
+**CPA sum rule in 2D**: https://hackmd.io/@aligho/BJCvem1hll 
+- For posterity, a pdf of this set of notes is in **./pdfs_of_notes/**. 
 
 **Cloacking for (long) cylindrical scatterers**: https://hackmd.io/@aligho/B1Gs5Cz2el
 
 - Expressions derived in this set of notes are used in **./cylinders/cpa through finite surface impedance.ipynb**. In particular, this set of notes
 finds both the general expressions for the scattering coefficients and also their large $a\omega/c$ asymptotic expansions. 
 
-**Derivation of hydrodynamic equation for plasmons**: https://hackmd.io/@aligho/rk4PhV1jel (A pdf of this set of notes is in **./pdfs_of_notes/**).
-    
+**Derivation of hydrodynamic equation for plasmons**: https://hackmd.io/@aligho/rk4PhV1jel
+- For posterity, a pdf of this set of notes is in **./pdfs_of_notes/**.    
 - Includes discussion on the following papers/books: [The Hydrodynamic Approach for Plasmonics in Graphene
 ](https://www.proquest.com/docview/2917520241?%20Theses&fromopenview=true&pq-origsite=gscholar&sourcetype=Dissertations%20) (Master's thesis by **Pedro Passos**), [Unusual resonances in nanoplasmonic structures due to nonlocal response](https://journals.aps.org/prb/pdf/10.1103/PhysRevB.84.121412?casa_token=LI3ua9Xq_tsAAAAA%3AU2TYIB471bO0JwfQ5mgmTD9A_FgWQBaRiu2ENBTQ0YHJfw3c_Vg-3fwBm-J93HGopKh3ZaIVHAPMcQ), [Electrodynamics of a Layered Electron Gas. I. Single Layer](https://www.sciencedirect.com/science/article/pii/0003491673901619) by **Alexander Fetter**, [Electromagnetic Surface Modes](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ia601409.us.archive.org/12/items/in.ernet.dli.2015.148030/2015.148030.Electromagnetic-Surface-Modes.pdf&ved=2ahUKEwj-t4Pvs9aPAxXkD1kFHZ6oFk0QFnoECB4QAQ&usg=AOvVaw3lVFcvFjjy3p2Me4T824Kv) by **Boardman**, [Classical and Quantum Plasmonics in Graphene Nanodisks:
 the Role of Edge States](https://link.aps.org/pdf/10.1103/PhysRevB.90.241414?casa_token=GwqXhy0kCv0AAAAA:C1i4xZyQE8U6sSKjdi09B3rh_8K0unbxdCOWhalyFgpAzlQbIvZ9I2nNmsKJxudWAzDroHfZi3uBclg) and [Plasma echoes in graphene](https://journals.aps.org/prb/pdf/10.1103/PhysRevB.108.085404?casa_token=Iu4cXl8WMmAAAAAA%3AANPgfmVy5oppsL0fnSYtQstl3p-Sztr0tHxHWDJKuD45Ie5PYeAf0KLQngBwjXrs2z9HAEPZgoJPtok) by **Jablan**
