@@ -1,12 +1,14 @@
 # Coherent-Perfect-Absorption
 
-**Void and sphere plasmons (and their radiative decay)**: https://hackmd.io/@aligho/BJK40peuxl. This set of notes concerns the paper [Radiative decay of plasmons in a metallic nanoshell](https://link.aps.org/pdf/10.1103/PhysRevB.69.155402?casa_token=ysrofqx3MhMAAAAA:PO2xtgoR8T6w5glk_0FlmUHMIk5X6qtD1tdgkH6TqaDN3p0EXLMs_s-OFhfZkDREXNWQ3-83KUphDw) by **Teperik, Popov and de Abajo**. 
+**Void and sphere plasmons (and their radiative decay)**: https://hackmd.io/@aligho/BJK40peuxl. 
+- This set of notes concerns the paper [Radiative decay of plasmons in a metallic nanoshell](https://link.aps.org/pdf/10.1103/PhysRevB.69.155402?casa_token=ysrofqx3MhMAAAAA:PO2xtgoR8T6w5glk_0FlmUHMIk5X6qtD1tdgkH6TqaDN3p0EXLMs_s-OFhfZkDREXNWQ3-83KUphDw) by **Teperik, Popov and de Abajo**. 
 - For posterity, a pdf of this set of notes is in **./pdfs_of_notes/**. 
 - For code, see **./spheres/Void Plasmon Decay.ipynb** where we verify the dispersion and radiative loss for the $H=0.4, 0.8, 1.2, q=1$ dipolar sphere-like and void-like modes in the range $2<R<7$, corresponding **Figure 1** of the paper.
 - Additionally, in **./spheres/Void Plasmon Surface Scattering.ipynb**, we verify **Figure 7** of the paper. In particular, for the fundamental dipolar mode, we calculate the plasmon loss with and without (diffuse) surface scattering.
 - Notes on surface scattering: https://hackmd.io/@aligho/BkLmTZFubx (A pdf of this set of notes is in **./pdfs_of_notes/**). The last figure in the paper above denotes the impact of surface scattering in nanoshells. Unfortunately, the formula used has a typo. In this set of notes, we derive the correct formula. 
 
-**Graphene coated nanospheres**: https://hackmd.io/@aligho/ByRl-iJ_ge. This set of notes concerns the paper [Localized plasmons in graphene-coated nanospheres](https://journals.aps.org/prb/pdf/10.1103/PhysRevB.91.125414).
+**Graphene coated nanospheres**: https://hackmd.io/@aligho/ByRl-iJ_ge. 
+- This set of notes concerns the paper [Localized plasmons in graphene-coated nanospheres](https://journals.aps.org/prb/pdf/10.1103/PhysRevB.91.125414).
 - For posterity, a pdf of this set of notes is in **./pdfs_of_notes/**. 
 - Includes derivation of TM (no radial magnetic field) and TE (no radial electric field) scattering coefficients in the presence of finite surface conductivity.
 - Includes a derivation of nonlocal hydrodynamic corrections for the surface layer.
@@ -36,13 +38,14 @@
 **Formalism for radiative decay for spheres with finite surface impedance**: https://hackmd.io/@aligho/r1OqhOxpgl 
 
 **Demonstration that radiative decay rates through two different methods are equivalent**: 
+- For bulk permittivities: https://hackmd.io/@aligho/Bkq90Xxybx
+    - For posterity, a pdf of this set of notes is in **./pdfs_of_notes/**. 
+    - This set of notes also involves some discussion of the following papers by **Jacob Khurgin**: [Electroluminescence efficiency enhancement using metal nanoparticles](https://pubs.aip.org/aip/apl/article/93/2/021120/336422) and [Impact of high-order surface plasmon modes of metal nanoparticles on enhancement of optical emission](https://pubs.aip.org/aip/apl/article/95/17/171103/321136).
+- For finite surface impedance: https://hackmd.io/@aligho/HyiKTnQkbe
+    - For posterity, a pdf of this set of notes is in **./pdfs_of_notes/**. 
 
-- For bulk permittivities: https://hackmd.io/@aligho/Bkq90Xxybx (a pdf of this document is in **./pdfs_of_notes/**). This set of notes also involves some discussion of the following papers by **Jacob Khurgin**: [Electroluminescence efficiency enhancement using metal nanoparticles](https://pubs.aip.org/aip/apl/article/93/2/021120/336422) and [Impact of high-order surface plasmon modes of metal nanoparticles on enhancement of optical emission](https://pubs.aip.org/aip/apl/article/95/17/171103/321136).
-- For finite surface impedance: https://hackmd.io/@aligho/HyiKTnQkbe (a pdf of this document is in **./pdfs_of_notes/**).
-
-**Radiative decay for photonic crystal leaky modes**:
-
-- https://hackmd.io/@aligho/rJXEdoObbg This set of notes contains explanations on the paper [Nearly free-photon approximation for two-dimensional photonic crystal slabs
+**Radiative decay for photonic crystal leaky modes**: https://hackmd.io/@aligho/rJXEdoObbg 
+- This set of notes contains explanations on the paper [Nearly free-photon approximation for two-dimensional photonic crystal slabs
 ](https://link.aps.org/pdf/10.1103/PhysRevB.64.045108?casa_token=KEHf3djAdGMAAAAA:T_xApBgLfdw8dMs1SKbaoDatljLS4qbNSl_k91XndY0hHcei7Kwbaoh-BZcaJvc8BsrRIJHwgUct-Gk) by **Ochiai and K. Sakoda** as well as the paper [Photonic-crystal slabs with a triangular lattice of triangular holes investigated using a guided-mode expansion method](https://link.aps.org/pdf/10.1103/PhysRevB.73.235114?casa_token=arXRw1d3YfsAAAAA:05tQftGqAnJrkoZ59fKwfWk-kJL2CrXv1deid7L_wJ2tJLm_ejEt0MUHdDuf5HkllnXpGueTJReF4DE) by **Andreani and Gerace**
 
 **CPA for thin films, cylinders and spheres**: https://hackmd.io/@aligho/SymTGLcPxg 
@@ -52,7 +55,8 @@
 - For posterity, a pdf of this set of notes is in **./pdfs_of_notes/**. 
 - For numerical validation, see **./spheres/cpa through finite surface impedance.ipynb**
 
-**Conservation of energy for CPA in thin films**: https://hackmd.io/@aligho/rkFKOwoFgg Includes discussion on the paper: [Ultrathin broadband nearly perfect absorber with symmetrical coherent illumination](https://opg.optica.org/viewmedia.cfm?seq=0&uri=oe-20-3-2246) by **Pu et al**. 
+**Conservation of energy for CPA in thin films**: https://hackmd.io/@aligho/rkFKOwoFgg 
+- Includes discussion on the paper: [Ultrathin broadband nearly perfect absorber with symmetrical coherent illumination](https://opg.optica.org/viewmedia.cfm?seq=0&uri=oe-20-3-2246) by **Pu et al**. 
 - For posterity, a pdf of this set of notes is in **./pdfs_of_notes/**. 
 - Also includes a discussion on scaling of scattering time/plasma frequency for doped semiconductors. 
 - In addition, we discuss the plasma and Woltersdorff thicknesses and evaluate them in specific cases. 
@@ -78,9 +82,8 @@
 - For posterity, a pdf of this set of notes is in **./pdfs_of_notes/**. 
 
 **Cloacking for (long) cylindrical scatterers**: https://hackmd.io/@aligho/B1Gs5Cz2el
-
-- Expressions derived in this set of notes are used in **./cylinders/cpa through finite surface impedance.ipynb**. In particular, this set of notes
-finds both the general expressions for the scattering coefficients and also their large $a\omega/c$ asymptotic expansions. 
+- Expressions derived in this set of notes are used in **./cylinders/cpa through finite surface impedance.ipynb**.
+- In particular, in this set of notes, we derive both the general expressions for the scattering coefficients and also their large $a\omega/c$ asymptotic expansions. 
 
 **Derivation of hydrodynamic equation for plasmons**: https://hackmd.io/@aligho/rk4PhV1jel
 - For posterity, a pdf of this set of notes is in **./pdfs_of_notes/**.    
@@ -91,9 +94,10 @@ the Role of Edge States](https://link.aps.org/pdf/10.1103/PhysRevB.90.241414?cas
 **Modes of the universe approach**: https://hackmd.io/@aligho/rySmTBry-x
 
 **Notes on the effect of anisotropicity**: 
-- Anisotropic dielectrics: https://hackmd.io/@aligho/BkfSXAi0xl (this set of notes primarily concerns a paper by **Eugene Mele**: [Screening of a point charge by an anisotropic medium: Anamorphoses in the method of images](https://pubs.aip.org/aapt/ajp/article-pdf/69/5/557/7529693/557_1_online.pdf))
+- Image charges for anisotropic dielectrics: https://hackmd.io/@aligho/BkfSXAi0xl 
+- This set of notes primarily concerns a paper by **Eugene Mele**: [Screening of a point charge by an anisotropic medium: Anamorphoses in the method of images](https://pubs.aip.org/aapt/ajp/article-pdf/69/5/557/7529693/557_1_online.pdf))
     - For posterity, a pdf of this set of notes is in **./pdfs_of_notes/**.  
--  https://hackmd.io/@aligho/SJ6BpiaCgx
+-  Connection between the density response and the local, anistoropic dielectric function: https://hackmd.io/@aligho/SJ6BpiaCgx
     - For posterity, a pdf of this set of notes is in **./pdfs_of_notes/**. 
 
     
