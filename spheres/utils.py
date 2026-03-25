@@ -2,7 +2,11 @@ from scipy.special import jv, hankel2, yv, spherical_jn, spherical_yn
 from numpy import sqrt, heaviside, pi
 import numpy as np
 
+# Define some constants: 
+
 alpha = 1/137
+hbar = 6.58211957*1e-16 # hbar in eV*seconds
+c = 2.99792458*1e17; # speed of light in nanometers per second
 
 def hl2(n, x):
     return spherical_jn(n, x) - 1j * spherical_yn(n, x)
