@@ -59,7 +59,7 @@
 - Includes a discussion on the paper: [Perfect coupling of light to surface plasmons by coherent absorption](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.108.186805) by **Noh et al**. 
 
 **CPA at large $\omega a/c$ (large radius as compared to wavelength) for spheres with finite surface impedance**: https://hackmd.io/@aligho/HkO2bPW6ex 
-- For posterity, a pdf of this set of notes is in **./pdfs_of_notes/**. 
+- For posterity, a pdf of this set of notes is in **./pdfs_of_notes/**. This is also section **S3** of the SI of the paper. 
 - For numerical validation, see **./spheres/cpa through finite surface impedance.ipynb**
 
 **Conservation of energy for CPA in thin films**: https://hackmd.io/@aligho/rkFKOwoFgg 
