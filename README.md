@@ -12,6 +12,7 @@
 - For posterity, a pdf of this set of notes is in **./pdfs_of_notes/**. 
 - Includes derivation of TM (no radial magnetic field) and TE (no radial electric field) scattering coefficients in the presence of finite surface conductivity.
 - Includes a derivation of nonlocal hydrodynamic corrections for the surface layer.
+- For nonlocal hydrodynamic corrections in the retarded regime, see: https://hackmd.io/@aligho/HJVZ9Dhn-g 
 - For numerical validation, see **./spheres/graphene coating.ipynb**
 
 **Derivation of non-retarded multipolar polarizability for finite surface impedance**: https://hackmd.io/@aligho/ByCdz6A3ex
