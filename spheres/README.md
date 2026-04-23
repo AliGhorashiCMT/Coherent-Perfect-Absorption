@@ -26,6 +26,8 @@
 
 **Tracking Fermi energy in the complex plane.ipynb**: Finds $\tau$, $\varepsilon_F=\varepsilon_F'+i\varepsilon_F''$ when we are off CPA. In addition, for conductivity that is off CPA, we find the necessary correction to the bulk dielectric constant to bring one back on CPA. In addition, we find the complex frequency associated with CPA if the radius is tuned off CPA. This file saves three figures stored in **./paper/**.
 
+**Fermi energy tracking analytical comparison.ipynb**: Analytic approximations for the calculations done in **Tracking Fermi energy in the complex plane.ipynb**. Note that we choose smaller radii just to see better agreement with the analytic approximations. Furthermore, this notebook saves **./paper/track_real_epsilon_off_cpa_analytic.pdf**, **./paper/track_real_epsilon_off_cpa_analytic.pdf** and **./paper/track_complex_frequencies_off_cpa_analytic.pdf** which are subfigures in supplementary figures 2 and 3. 
+
 **Passive sink surface conductivity.ipynb**: Similar to the notebook of the same name in **../cylinders/**, just for cylinders. 
 
 **Generalized Kramers Kronig.ipynb**: Notes on the paper (Causality relations in the homogenization of metamaterials)[https://journals.aps.org/prb/pdf/10.1103/PhysRevB.84.054305?casa_token=4f21nymi9rIAAAAA%3AFQXPLXASOiUj-PXAmIum1JlwFggxSD5gFvi7e0Wx836uvSvYz3iwo8bwIpZZoSLACPKvtWAog3tjyg] by **Andrea Alu**. In particular, this notebook re-produces **Figure 1, 2, and 3** of the paper. The most important figure is **Figure 3**, which shows that the retarded polarizability may be found through the **Kramers-Kronig** relations, supplemented with a closed-form quasistatic correction. 
