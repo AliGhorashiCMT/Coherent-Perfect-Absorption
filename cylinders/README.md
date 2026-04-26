@@ -20,5 +20,6 @@ light using a passive sink](https://opg.optica.org/oe/fulltext.cfm?uri=oe-21-15-
 
 **utils.py**: Scattering coefficients relevant to CPA for cylinders (see https://hackmd.io/@aligho/B1Gs5Cz2el).
 
+**Polarizability from scattering coefficients.ipynb**: Calculates the fully retarded and static polarizability for a cylinder and saves these in **./paper/polarizability_parallel.pdf** (parallel to the cylinder axis) and **./paper/polarizability_perp.pdf** (perpendicular to the cylinder axis). 
 
 
