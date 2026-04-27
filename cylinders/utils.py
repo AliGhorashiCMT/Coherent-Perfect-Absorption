@@ -91,3 +91,8 @@ def e_z_recursive_cpa(previous_coefficients, l, epsilon1, epsilon2, kR):
     next_coefficients = np.einsum("ij..., jk..., k...->i...", mat2, mat1, previous_coefficients)
 
     return next_coefficients
+
+alpha = 1/137
+hbar = 6.58211957*1e-16 # hbar in eV*seconds
+c = 2.99792458*1e17; # speed of light in nanometers per second
+
