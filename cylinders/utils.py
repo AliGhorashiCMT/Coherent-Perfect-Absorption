@@ -92,6 +92,13 @@ def e_z_recursive_cpa(previous_coefficients, l, epsilon1, epsilon2, kR):
 
     return next_coefficients
 
+def graphene_conductivity(epsilon_F, hbar_omega, gamma, include_interband=False):
+    conductivity = 4j*alpha*epsilon_F/(hbar_omega+1j*gamma)
+    if include_interband: 
+        conductivity += alpha*pi*heaviside(hbar_omega-2*epsilon_F, 0.5) + 1j*alpha*np.log(np.abs(2*epsilon_F-hbar_omega)/np.abs(2*epsilon_F+hbar_omega))
+    return conductivity 
+
+
 alpha = 1/137
 hbar = 6.58211957*1e-16 # hbar in eV*seconds
 c = 2.99792458*1e17; # speed of light in nanometers per second
