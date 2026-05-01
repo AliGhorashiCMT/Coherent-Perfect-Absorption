@@ -13,6 +13,7 @@
 **cpa surface conductivity.ipynb**: Calculates, from closed form solutions (see https://hackmd.io/@aligho/BkyC6e3agg, corresponding to **Equation 1** of **CLEO submission**) the conductivity required for CPA and calculates the bandwidth for graphene. For a derivation of an approximation to the CPA bandwidth, see https://hackmd.io/@aligho/r1zDQZNgbg (a pdf of this set of notes is in **../pdfs_of_notes/**). **Figure 1 for CLEO**. For notes on obtaining the DC scattering time from mobility measurements, refer to these notes: https://hackmd.io/@aligho/BJGLhC-h-l (pdf of notes in **../pdfs_of_notes/**. This is also **Section S2** of the SI of the paper). Saves the following files: 
 - **Supplementary Figure 1** for the paper in **./paper/approximate_ssquared.pdf**.
 - **Supplementary Figure 16** for the paper in **./paper/closed_form_cpa_solution_spheres_te.pdf**
+- **Figure 7** for the paper in **./paper/cpa_sphere_parameters.pdf**
 
 **cpa for te modes with a dielectric.ipynb**: **Figure 2 for CLEO**
 
