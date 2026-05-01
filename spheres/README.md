@@ -14,6 +14,7 @@
 - **Supplementary Figure 1** for the paper in **./paper/approximate_ssquared.pdf**.
 - **Supplementary Figure 16** for the paper in **./paper/closed_form_cpa_solution_spheres_te.pdf**
 - **Figure 7** for the paper in **./paper/cpa_sphere_parameters.pdf**
+- **Figure 8** for the paper in **./paper/bandwidth.pdf**
 
 **cpa for te modes with a dielectric.ipynb**: **Figure 2 for CLEO**
 
