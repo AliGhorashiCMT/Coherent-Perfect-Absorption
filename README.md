@@ -62,7 +62,8 @@
 **CPA for isolated nanoparticles suspended over a PEC substrate**: https://hackmd.io/@aligho/H1iiWa2Jfx 
 - For posterity, a pdf of this set of notes is in **./pdfs_of_notes/**.
 - Includes a discussion on the paper: [Coherent perfect absorption by a single nanoparticle](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12131/121310P/Coherent-perfect-absorption-by-a-single-nanoparticle/10.1117/12.2621039.short)
-- Relatedly, for azimuthally symmetric incident fields: https://hackmd.io/@aligho/rkw1eEZxfl 
+- Relatedly, for azimuthally symmetric incident fields (see [Perfect absorption of a focused light beam by a single nanoparticle](https://onlinelibrary.wiley.com/doi/abs/10.1002/lpor.202000430?casa_token=Wc0i7Q2Kf9EAAAAA:eyrI3Zs-eBJDO36d_QvW7vMngLaB3btUd770cWKkcJDdmKKg9fYZM8bLoQhAQDklaAB8OQwj7efc-Tw) (**Laser and Photonics Reviews, 2021**)): https://hackmd.io/@aligho/rkw1eEZxfl
+  - For posterity, a pdf of this set of notes is in **./pdfs_of_notes/**.
   
 **CPA at large $\omega a/c$ (large radius as compared to wavelength) for spheres with finite surface impedance**: https://hackmd.io/@aligho/HkO2bPW6ex 
 - For posterity, a pdf of this set of notes is in **./pdfs_of_notes/**. This is also section **S3** of the SI of the paper. 
