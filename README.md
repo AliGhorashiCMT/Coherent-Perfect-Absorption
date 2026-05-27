@@ -128,5 +128,6 @@ the Role of Edge States](https://link.aps.org/pdf/10.1103/PhysRevB.90.241414?cas
 -  Connection between the density response and the local, anistoropic dielectric function: https://hackmd.io/@aligho/SJ6BpiaCgx
     - For posterity, a pdf of this set of notes is in **./pdfs_of_notes/**. 
 
+**Graphene nanoribbons**: https://hackmd.io/@aligho/HJPmohXeMx
     
 
