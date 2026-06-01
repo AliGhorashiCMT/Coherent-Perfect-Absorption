@@ -36,5 +36,8 @@
 
 **Generalized Kramers Kronig.ipynb**: Notes on the paper (Causality relations in the homogenization of metamaterials)[https://journals.aps.org/prb/pdf/10.1103/PhysRevB.84.054305?casa_token=4f21nymi9rIAAAAA%3AFQXPLXASOiUj-PXAmIum1JlwFggxSD5gFvi7e0Wx836uvSvYz3iwo8bwIpZZoSLACPKvtWAog3tjyg] by **Andrea Alu**. In particular, this notebook re-produces **Figure 1, 2, and 3** of the paper. The most important figure is **Figure 3**, which shows that the retarded polarizability may be found through the **Kramers-Kronig** relations, supplemented with a closed-form quasistatic correction. 
 
+**scatterer_over_pec.ipynb**: Plots some of the figures from the paper [Perfect absorption of a focused light beam by a single nanoparticle](https://onlinelibrary.wiley.com/doi/abs/10.1002/lpor.202000430?casa_token=Wc0i7Q2Kf9EAAAAA:eyrI3Zs-eBJDO36d_QvW7vMngLaB3btUd770cWKkcJDdmKKg9fYZM8bLoQhAQDklaAB8OQwj7efc-Tw) (**Laser and Photonics Reviews, 2021**). See the main directory for notes on this paper. Furthermore, we calculate the physical parameters necessary for a coated scatterer to absorb light in this geometry. 
+
 **utils.py**: Expressions for scattering coefficients for spheres. The zeros of the denominator functions give the surface plasmon frequencies and the zeros of the numerator functions give the CPA frequencies. For derivation of the scattering coefficients, see: https://hackmd.io/@aligho/ByRl-iJ_ge. 
+
 
