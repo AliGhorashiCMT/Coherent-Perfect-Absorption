@@ -28,3 +28,5 @@ light using a passive sink](https://opg.optica.org/oe/fulltext.cfm?uri=oe-21-15-
 **Polarizability from scattering coefficients.ipynb**: Calculates the fully retarded and static polarizability for a cylinder and saves these in **./paper/polarizability_parallel.pdf** (parallel to the cylinder axis) and **./paper/polarizability_perp.pdf** (perpendicular to the cylinder axis). These pdfs correspond to **Supplementary Figure 5**.
 
 **Dipole lattice sums.ipynb**: Saves **./paper/lattice_cpa_conductivity.pdf** and **./paper/lattice_sum.pdf** corresponding to **Figure 2** and **Supplementary Figure 6**. 
+
+**Extraordinary reflection from sub wavelength cylinders.ipynb**: Re-creates figures from the paper [Extraordinary optical reflection from sub-wavelength cylinder arrays](https://opg.optica.org/directpdfaccess/87a6fce8-e489-4bee-bbbfeae2114ce881_89577/oe-14-9-3730.pdf?da=1&id=89577&seq=0&mobile=no). See also the main directory for notes on this paper. 
