@@ -27,6 +27,7 @@
 - Couplied dipole model for a lattice of cylinders: https://hackmd.io/@aligho/HJXva_Dv-e
     - For posterity, a pdf of this is in **./pdfs_of_notes/**.
     - Includes notes on the paper: [Extraordinary optical reflection from sub-wavelength cylinder arrays](https://opg.optica.org/directpdfaccess/87a6fce8-e489-4bee-bbbfeae2114ce881_89577/oe-14-9-3730.pdf?da=1&id=89577&seq=0&mobile=no)
+        - For p-polarized lattice sum: https://hackmd.io/@aligho/HkV5TZzWMg. A pdf of this is in **./pdfs_of_notes/**.
 - A potpourri of important identities/proofs related to the electrodynamics of lattices of multipoles: https://hackmd.io/@aligho/HkWVQPID-x
     - For posterity, a pdf of this is in **./pdfs_of_notes/**.
     - For proof of Weyl identity: https://hackmd.io/@aligho/rkQCcsAOZg and the Sommerfeld identity: https://hackmd.io/@aligho/SJmejWQ2Zg
