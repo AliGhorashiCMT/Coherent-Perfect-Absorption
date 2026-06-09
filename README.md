@@ -79,6 +79,7 @@
 **Nonlocal corrections to plasmons in spheres**: https://hackmd.io/@aligho/BJ8qUUMOgg
 - For posterity, a pdf of this set of notes is in **./pdfs_of_notes/**.
 - Includes notes on the papers: [Nonlocal Response of Metallic Nanospheres Probed by Light, Electrons, and Atoms](https://pubs.acs.org/doi/10.1021/nn406153k) and [Spatial Nonlocality in the Optical Response of Metal Nanoparticles](https://pubs.acs.org/doi/10.1021/jp204261u)
+    - For notes on longitudinal resonances engendered by nonlocality: https://hackmd.io/@aligho/B1VohJBbGx. A pdf of this set of notes is in **./pdfs_of_notes/**.
 
 **Nonlocal corrections for SPPs in various configurations of flat metal-insulator boundaries**: https://hackmd.io/@aligho/HJdkkZS_xl 
 - For posterity, a pdf of this set of notes is in **./pdfs_of_notes/**. 
