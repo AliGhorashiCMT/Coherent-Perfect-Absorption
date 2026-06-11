@@ -85,6 +85,10 @@
 - For posterity, a pdf of this set of notes is in **./pdfs_of_notes/**. 
 - Includes a discussion on the following paper: [Nonlocal response in thin-film waveguides: Loss versus nonlocality and breaking of complementarity](https://journals.aps.org/prb/pdf/10.1103/PhysRevB.88.115401) by **Raza, Christensen, et al**
 
+**Specular reflection model for the polarizability**: https://hackmd.io/@aligho/ryN4ny8Wzl
+- Includes notes on the paper [Polarizability of a small sphere including nonlocal effects](https://journals.aps.org/prb/pdf/10.1103/PhysRevB.24.554) by **Dasgupta and Fuchs**.
+- For posterity, a pdf of this set of notes is in **./pdfs_of_notes/**.
+
 **Feibelman d-parameters**: https://hackmd.io/@aligho/BJKFkQdOgx
 - For posterity, a pdf of this set of notes is in **./pdfs_of_notes/**.
 - Includes notes on the following papers:
