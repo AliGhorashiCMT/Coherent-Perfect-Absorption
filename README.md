@@ -136,4 +136,6 @@ the Role of Edge States](https://link.aps.org/pdf/10.1103/PhysRevB.90.241414?cas
 
 **Graphene nanoribbons**: https://hackmd.io/@aligho/HJPmohXeMx
 - Concerns the following papers: [Radiative corrections to the polarizability tensor of an electrically small anisotropic dielectric particle](https://opg.optica.org/directpdfaccess/3b008e82-9061-4bcb-97aba5de6456a2e6_195394/oe-18-4-3556.pdf?da=1&id=195394&seq=0&mobile=no) by **S. Albaladejo, R. Gomez-Medina, et al** (2010), [Adaptive multi-spectral mimicking with 2D-material nanoresonator networks](https://iopscience.iop.org/article/10.1088/2040-8986/ad4722/pdf), and [Tunable mid-infrared coherent perfect absorption in a graphene meta-surface](https://www.nature.com/articles/srep13956.pdf)
-- For posterity, a pdf of this set of notes is in **./pdfs_of_notes/**. 
+- For posterity, a pdf of this set of notes is in **./pdfs_of_notes/**.
+
+**CPA exceptional points in the time domain**: https://hackmd.io/@aligho/HJjNYP_Wze
