@@ -11,7 +11,8 @@
 **cpa through finite surface impedance.ipynb**: Investigates CPA at large and small values for $kR$ for a sphere. For small $kR$, for TM modes, we tune the surface conductivity around the surface plasmon value $-il(l+1)\sigma(\omega)/\omega\varepsilon_0\approx l\varepsilon + (l+1)$ (see https://hackmd.io/@aligho/ByCdz6A3ex). For TE modes, we tune the surface conductivity around the value $\sigma(\omega)\approx -i(2l+1)/\mu_0\omega a$ (see the same set of notes). For large $kR$, we fix the conductivity to be $\sigma(\omega)=c\varepsilon_0$ and we see periodic CPA (see https://hackmd.io/@aligho/HkO2bPW6ex). This save **./paper/large_k_cpa_spheres_tm.pdf** and **./paper/large_k_cpa_spheres_te.pdf**, which constitute supplementary figure 4 of the paper. 
 
 **cpa surface conductivity.ipynb**: Calculates, from closed form solutions (see https://hackmd.io/@aligho/BkyC6e3agg, corresponding to **Equation 1** of **CLEO submission**) the conductivity required for CPA and calculates the bandwidth for graphene. For a derivation of an approximation to the CPA bandwidth, see https://hackmd.io/@aligho/r1zDQZNgbg (a pdf of this set of notes is in **../pdfs_of_notes/**). **Figure 1 for CLEO**. For notes on obtaining the DC scattering time from mobility measurements, refer to these notes: https://hackmd.io/@aligho/BJGLhC-h-l (pdf of notes in **../pdfs_of_notes/**. This is also **Section S2** of the SI of the paper). Saves the following files: 
-- **Figure 1** of the paper in **closed_form_cpa_solution.pdf** 
+- **Figure 1** of the paper in **closed_form_cpa_solution.pdf**
+- **Figure 5** of the paper in **large_kr_cpa.pdf** and **large_kr_cpa_magnetic.pdf**
 - **Supplementary Figure 1** for the paper in **./paper/approximate_ssquared.pdf**.
 - **Supplementary Figure 16** for the paper in **./paper/closed_form_cpa_solution_spheres_te.pdf** and **real_sigma_approximation_te.pdf**
 - **Figure 7** for the paper in **./paper/cpa_sphere_parameters.pdf**
@@ -34,8 +35,8 @@
 **Fermi energy tracking analytical comparison.ipynb**: Analytic approximations for the calculations done in **Tracking Fermi energy in the complex plane.ipynb**. Note that we choose smaller radii just to see better agreement with the analytic approximations. Furthermore, this notebook saves **./paper/track_real_epsilon_off_cpa_analytic.pdf**, **./paper/track_real_epsilon_off_cpa_analytic.pdf** and **./paper/track_complex_frequencies_off_cpa_analytic.pdf** which are subfigures in supplementary figures 2 and 3. 
 
 **Passive sink surface conductivity.ipynb**: Similar to the notebook of the same name in **../cylinders/**, just for cylinders. Saves the following files for the paper: 
-- **passive_sink_vs_cpa_1.pdf**: Corresponds to Panels **(a)** and **(b)** of **Figure 2** of the paper.
-- **passive_sink_vs_cpa_2.pdf**: Corresponds to Panels **(c)** and **(d)** of **Figure 2** of the paper.
+- **passive_sink_vs_cpa_1.pdf**: Corresponds to Panels **(a)** and **(b)** of **Figure 3** of the paper.
+- **passive_sink_vs_cpa_2.pdf**: Corresponds to Panels **(c)** and **(d)** of **Figure 3** of the paper.
 
 **Generalized Kramers Kronig.ipynb**: Notes on the paper (Causality relations in the homogenization of metamaterials)[https://journals.aps.org/prb/pdf/10.1103/PhysRevB.84.054305?casa_token=4f21nymi9rIAAAAA%3AFQXPLXASOiUj-PXAmIum1JlwFggxSD5gFvi7e0Wx836uvSvYz3iwo8bwIpZZoSLACPKvtWAog3tjyg] by **Andrea Alu**. In particular, this notebook re-produces **Figure 1, 2, and 3** of the paper. The most important figure is **Figure 3**, which shows that the retarded polarizability may be found through the **Kramers-Kronig** relations, supplemented with a closed-form quasistatic correction. 
 
