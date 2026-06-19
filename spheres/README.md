@@ -33,7 +33,9 @@
 
 **Fermi energy tracking analytical comparison.ipynb**: Analytic approximations for the calculations done in **Tracking Fermi energy in the complex plane.ipynb**. Note that we choose smaller radii just to see better agreement with the analytic approximations. Furthermore, this notebook saves **./paper/track_real_epsilon_off_cpa_analytic.pdf**, **./paper/track_real_epsilon_off_cpa_analytic.pdf** and **./paper/track_complex_frequencies_off_cpa_analytic.pdf** which are subfigures in supplementary figures 2 and 3. 
 
-**Passive sink surface conductivity.ipynb**: Similar to the notebook of the same name in **../cylinders/**, just for cylinders. 
+**Passive sink surface conductivity.ipynb**: Similar to the notebook of the same name in **../cylinders/**, just for cylinders. Saves the following files for the paper: 
+- **passive_sink_vs_cpa_1.pdf**: Corresponds to Panels **(a)** and **(b)** of **Figure 2** of the paper.
+- **passive_sink_vs_cpa_2.pdf**: Corresponds to Panels **(c)** and **(d)** of **Figure 2** of the paper.
 
 **Generalized Kramers Kronig.ipynb**: Notes on the paper (Causality relations in the homogenization of metamaterials)[https://journals.aps.org/prb/pdf/10.1103/PhysRevB.84.054305?casa_token=4f21nymi9rIAAAAA%3AFQXPLXASOiUj-PXAmIum1JlwFggxSD5gFvi7e0Wx836uvSvYz3iwo8bwIpZZoSLACPKvtWAog3tjyg] by **Andrea Alu**. In particular, this notebook re-produces **Figure 1, 2, and 3** of the paper. The most important figure is **Figure 3**, which shows that the retarded polarizability may be found through the **Kramers-Kronig** relations, supplemented with a closed-form quasistatic correction. 
 
