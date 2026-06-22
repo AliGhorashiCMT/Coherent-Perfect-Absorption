@@ -33,7 +33,7 @@
 
 **Tracking Fermi energy in the complex plane.ipynb**: Finds $\tau$, $\varepsilon_F=\varepsilon_F'+i\varepsilon_F''$ when we are off CPA. In addition, for conductivity that is off CPA, we find the necessary correction to the bulk dielectric constant to bring one back on CPA. In addition, we find the complex frequency associated with CPA if the radius is tuned off CPA. This file saves three figures stored in **./paper/**.
 
-**Fermi energy tracking analytical comparison.ipynb**: Analytic approximations for the calculations done in **Tracking Fermi energy in the complex plane.ipynb**. Note that we choose smaller radii just to see better agreement with the analytic approximations. Furthermore, this notebook saves the following files (**which are subfigures in Supplementary Figure 2 and Supplementary Figure 3**:
+**Fermi energy tracking analytical comparison.ipynb**: Analytic approximations for the calculations done in **Tracking Fermi energy in the complex plane.ipynb**. Note that we choose smaller radii just to see better agreement with the analytic approximations. Furthermore, this notebook saves the following files (**which are subfigures in Supplementary Figure 2 and Supplementary Figure 3**):
 - **./paper/track_real_epsilon_off_cpa_analytic.pdf**
 - **./paper/track_real_epsilon_off_cpa_analytic.pdf**
 - **./paper/track_complex_frequencies_off_cpa_analytic.pdf** 
