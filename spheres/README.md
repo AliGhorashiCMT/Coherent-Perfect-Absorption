@@ -23,7 +23,8 @@
 
 **cpa for multilayered spheres**: Calculates CPA for multilayered systems recursively (see https://hackmd.io/@aligho/H1UxFPGeZx). Reproduces **figure 3** from Noh, Heeso, et al. "Perfect coupling of light to surface plasmons by coherent absorption." Physical review letters 108.18 (2012): 186805.
 
-**CPA for multilayer with thin film.ipynb**: Compares the multilayer formalism with the closed form CPA formalism for cloaked systems. In particular, we consider we map a cloaked system to an "equivalent" multilayer system with mantle layer dielectric constant given by $\varepsilon(\omega)=1+i\sigma(\omega)/(\varepsilon_0\omega d)$.
+**CPA for multilayer with thin film.ipynb**: Compares the multilayer formalism with the closed form CPA formalism for cloaked systems. In particular, we consider we map a cloaked system to an "equivalent" multilayer system with mantle layer dielectric constant given by $\varepsilon(\omega)=1+i\sigma(\omega)/(\varepsilon_0\omega d)$. Saves the following files: 
+- **./paper/thin_film_limit_tm.pdf** and **./paper/thin_film_limit_te.pdf**, corresponding to **Supplementary Figure 10** and **Supplementary Figure 11**. 
 
 **Void Plasmon Decay.ipynb** and **Void Plasmon Surface Scattering.ipynb**: More information provided in the **README** of the main directory, but, briefly, these verify **Figure 1** and **Figure 7**, respectively, of [Radiative decay of plasmons in a metallic nanoshell](https://link.aps.org/pdf/10.1103/PhysRevB.69.155402?casa_token=ysrofqx3MhMAAAAA:PO2xtgoR8T6w5glk_0FlmUHMIk5X6qtD1tdgkH6TqaDN3p0EXLMs_s-OFhfZkDREXNWQ3-83KUphDw). Both notebooks deal with dipolar $l=1$ modes. 
 
