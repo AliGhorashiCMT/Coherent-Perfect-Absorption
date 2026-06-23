@@ -32,7 +32,10 @@
 
 **Quasistatic void plasmon.ipynb** Using the formalism of the de Abajo paper, [Radiative decay of plasmons in a metallic nanoshell](https://link.aps.org/pdf/10.1103/PhysRevB.69.155402?casa_token=ysrofqx3MhMAAAAA:PO2xtgoR8T6w5glk_0FlmUHMIk5X6qtD1tdgkH6TqaDN3p0EXLMs_s-OFhfZkDREXNWQ3-83KUphDw), mentioned in the notebooks above, we compare the quasistatic and fully retarded void/sphere plasmons in nanoshells. The quasistatic ones are analyzed in this paper: [Surface plasmons and strong light-matter coupling in metallic nanoshells](https://scholar.archive.org/work/ojws3hap2jb7nax3evbj4jet2m/access/wayback/http://fisica.unipv.it/nanophotonics/Pubs/AlpeggianiPRB2012.pdf)
 
-**Tracking Fermi energy in the complex plane.ipynb**: Finds $\tau$, $\varepsilon_F=\varepsilon_F'+i\varepsilon_F''$ when we are off CPA. In addition, for conductivity that is off CPA, we find the necessary correction to the bulk dielectric constant to bring one back on CPA. In addition, we find the complex frequency associated with CPA if the radius is tuned off CPA. This file saves three figures stored in **./paper/**.
+**Tracking Fermi energy in the complex plane.ipynb**: Finds $\tau$, $\varepsilon_F=\varepsilon_F'+i\varepsilon_F''$ when we are off CPA. In addition, for conductivity that is off CPA, we find the necessary correction to the bulk dielectric constant to bring one back on CPA. In addition, we find the complex frequency associated with CPA if the radius is tuned off CPA. This file saves three figures stored in **./paper/**, which are the following (and correspond to **Figure 6** of the paper): 
+- **paper/track_complex_frequencies_off_cpa.pdf**
+- **./paper/track_imag_epsilon_off_cpa.pdf**
+- **./paper/track_real_epsilon_off_cpa.pdf**
 
 **Fermi energy tracking analytical comparison.ipynb**: Analytic approximations for the calculations done in **Tracking Fermi energy in the complex plane.ipynb**. Note that we choose smaller radii just to see better agreement with the analytic approximations. Furthermore, this notebook saves the following files (**which are subfigures in Supplementary Figure 2 and Supplementary Figure 3**):
 - **./paper/track_real_epsilon_off_cpa_analytic.pdf**
