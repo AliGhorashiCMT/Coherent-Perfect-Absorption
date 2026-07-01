@@ -2,7 +2,7 @@
 
 ### If you are here for code relevant to [Plasmonic coated scatterers for tunable coherent perfect absorption](https://arxiv.org/abs/2606.27218) (Submitted manuscript):
 
-Detailed descriptions of all relevant code/figures is in **./spheres/** and **./cylinders**.
+Detailed descriptions of all relevant code/figures is in **./spheres/** and **./cylinders/**.
 
 ### Otherwise, if you are not here for the paper code: 
 
