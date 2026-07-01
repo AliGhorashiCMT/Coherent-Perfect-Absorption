@@ -1,5 +1,13 @@
 # Coherent-Perfect-Absorption
 
+## If you are here for code relevant to [Plasmonic coated scatterers for tunable coherent perfect absorption](https://arxiv.org/abs/2606.27218) (Submitted manuscript)
+
+Detailed descriptions of all relevant code/figures is in **./spheres/** and **./cylinders**.
+
+## Otherwise
+
+Enjoy everything else in this repo :) and email ali.ghorashi@yale.edu if you have any questions. 
+
 **Void and sphere plasmons (and their radiative decay)**: https://hackmd.io/@aligho/BJK40peuxl. 
 - This set of notes concerns the paper [Radiative decay of plasmons in a metallic nanoshell](https://link.aps.org/pdf/10.1103/PhysRevB.69.155402?casa_token=ysrofqx3MhMAAAAA:PO2xtgoR8T6w5glk_0FlmUHMIk5X6qtD1tdgkH6TqaDN3p0EXLMs_s-OFhfZkDREXNWQ3-83KUphDw) by **Teperik, Popov and de Abajo**. 
 - For posterity, a pdf of this set of notes is in **./pdfs_of_notes/**. 
