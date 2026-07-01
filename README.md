@@ -1,10 +1,10 @@
 # Coherent-Perfect-Absorption
 
-## If you are here for code relevant to [Plasmonic coated scatterers for tunable coherent perfect absorption](https://arxiv.org/abs/2606.27218) (Submitted manuscript)
+### If you are here for code relevant to [Plasmonic coated scatterers for tunable coherent perfect absorption](https://arxiv.org/abs/2606.27218) (Submitted manuscript):
 
 Detailed descriptions of all relevant code/figures is in **./spheres/** and **./cylinders**.
 
-## Otherwise
+### Otherwise, if you are not here for the paper code: 
 
 Enjoy everything else in this repo :) and email ali.ghorashi@yale.edu if you have any questions. 
 
