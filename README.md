@@ -150,3 +150,9 @@ the Role of Edge States](https://link.aps.org/pdf/10.1103/PhysRevB.90.241414?cas
 
 **CPA exceptional points in the time domain**: https://hackmd.io/@aligho/HJjNYP_Wze
 - For posterity, a pdf of this set of notes is in **./pdfs_of_notes/**.
+
+**Incoherent perfect absorption**: https://hackmd.io/@aligho/HydOG6yHGe 
+- Concerns the following paper by **Narimanov**: [Incoherent perfect absorption in lossy
+anisotropic materials](https://opg.optica.org/directpdfaccess/6449ade9-eba9-401c-a5819297fdace333_407520/oe-27-7-9561.pdf?da=1&id=407520&seq=0&mobile=no) 
+- For posterity, a pdf of this set of notes is in **./pdfs_of_notes/**.
+
