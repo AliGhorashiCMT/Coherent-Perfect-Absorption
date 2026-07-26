@@ -148,10 +148,10 @@ the Role of Edge States](https://link.aps.org/pdf/10.1103/PhysRevB.90.241414?cas
 - Concerns the following papers: [Radiative corrections to the polarizability tensor of an electrically small anisotropic dielectric particle](https://opg.optica.org/directpdfaccess/3b008e82-9061-4bcb-97aba5de6456a2e6_195394/oe-18-4-3556.pdf?da=1&id=195394&seq=0&mobile=no) by **S. Albaladejo, R. Gomez-Medina, et al** (2010), [Adaptive multi-spectral mimicking with 2D-material nanoresonator networks](https://iopscience.iop.org/article/10.1088/2040-8986/ad4722/pdf), and [Tunable mid-infrared coherent perfect absorption in a graphene meta-surface](https://www.nature.com/articles/srep13956.pdf)
 - For posterity, a pdf of this set of notes is in **./pdfs_of_notes/**.
 
-**CPA exceptional points in the time domain**: https://hackmd.io/@aligho/HJjNYP_Wze
+**CPA exceptional points in the time domain**: https://hackmd.io/@aligho/HJjNYP_Wze https://hackmd.io/MPaFKg-iQP-xpfpKnzPcbw https://hackmd.io/@aligho/HydOG6yHGe
 - For posterity, a pdf of this set of notes is in **./pdfs_of_notes/**.
 
-**Incoherent perfect absorption**: https://hackmd.io/@aligho/HydOG6yHGe 
+**Incoherent perfect absorption**: [https://hackmd.io/@aligho/HydOG6yHGe](https://hackmd.io/@aligho/HydOG6yHGe)
 - Concerns the following paper by **Narimanov**: [Incoherent perfect absorption in lossy
 anisotropic materials](https://opg.optica.org/directpdfaccess/6449ade9-eba9-401c-a5819297fdace333_407520/oe-27-7-9561.pdf?da=1&id=407520&seq=0&mobile=no) 
 - For posterity, a pdf of this set of notes is in **./pdfs_of_notes/**.
