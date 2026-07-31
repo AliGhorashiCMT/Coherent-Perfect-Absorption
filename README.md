@@ -92,6 +92,7 @@ Enjoy everything else in this repo :) and email ali.ghorashi@yale.edu if you hav
 **Nonlocal corrections for SPPs in various configurations of flat metal-insulator boundaries**: https://hackmd.io/@aligho/HJdkkZS_xl 
 - For posterity, a pdf of this set of notes is in **./pdfs_of_notes/**. 
 - Includes a discussion on the following paper: [Nonlocal response in thin-film waveguides: Loss versus nonlocality and breaking of complementarity](https://journals.aps.org/prb/pdf/10.1103/PhysRevB.88.115401) by **Raza, Christensen, et al**
+- For numerical calculations related to nonlocal corrections in these configurations see **./thin_films/nonlocal_anistropic_brewster.ipynb**. 
 
 **Specular reflection model for the polarizability**: https://hackmd.io/@aligho/ryN4ny8Wzl
 - Includes notes on the paper [Polarizability of a small sphere including nonlocal effects](https://journals.aps.org/prb/pdf/10.1103/PhysRevB.24.554) by **Dasgupta and Fuchs**.
@@ -155,4 +156,5 @@ the Role of Edge States](https://link.aps.org/pdf/10.1103/PhysRevB.90.241414?cas
 - Concerns the following paper by **Narimanov**: [Incoherent perfect absorption in lossy
 anisotropic materials](https://opg.optica.org/directpdfaccess/6449ade9-eba9-401c-a5819297fdace333_407520/oe-27-7-9561.pdf?da=1&id=407520&seq=0&mobile=no) 
 - For posterity, a pdf of this set of notes is in **./pdfs_of_notes/**.
+- For code verifying the figures in this paper, see **./thin_films/nonlocal_anistropic_brewster.ipynb**. 
 
