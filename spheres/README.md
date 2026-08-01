@@ -50,6 +50,8 @@
 
 **scatterer_over_pec.ipynb**: Plots some of the figures from the paper [Perfect absorption of a focused light beam by a single nanoparticle](https://onlinelibrary.wiley.com/doi/abs/10.1002/lpor.202000430?casa_token=Wc0i7Q2Kf9EAAAAA:eyrI3Zs-eBJDO36d_QvW7vMngLaB3btUd770cWKkcJDdmKKg9fYZM8bLoQhAQDklaAB8OQwj7efc-Tw) (**Laser and Photonics Reviews, 2021**). See the main directory for notes on this paper. Furthermore, we calculate the physical parameters necessary for a coated scatterer to absorb light in this geometry. 
 
+**bulk_plasmon_cpa**: Calculates CPA engendered by bulk resonances (see [Nonlocal Response of Metallic Nanospheres Probed by Light, Electrons, and Atoms](https://pubs.acs.org/ancac3/article-pdf/8/2/1745/13770781/nn406153k.pdf))
+
 **utils.py**: Expressions for scattering coefficients for spheres. The zeros of the denominator functions give the surface plasmon frequencies and the zeros of the numerator functions give the CPA frequencies. For derivation of the scattering coefficients, see: https://hackmd.io/@aligho/ByRl-iJ_ge. 
 
 
