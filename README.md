@@ -95,6 +95,7 @@ Enjoy everything else in this repo :) and email ali.ghorashi@yale.edu if you hav
 - Includes a discussion on the following paper: [Nonlocal response in thin-film waveguides: Loss versus nonlocality and breaking of complementarity](https://journals.aps.org/prb/pdf/10.1103/PhysRevB.88.115401) by **Raza, Christensen, et al**
 - For numerical calculations related to nonlocal corrections in these configurations see **./thin_films/nonlocal_anistropic_brewster.ipynb**.
 - For discussion on the **Bennett mode**, see https://hackmd.io/@aligho/B1pSVgTrfg
+    - a pdf of this set of notes is in **./pdfs_of_notes/**. 
 
 **Specular reflection model for the polarizability**: https://hackmd.io/@aligho/ryN4ny8Wzl
 - Includes notes on the paper [Polarizability of a small sphere including nonlocal effects](https://journals.aps.org/prb/pdf/10.1103/PhysRevB.24.554) by **Dasgupta and Fuchs**.
