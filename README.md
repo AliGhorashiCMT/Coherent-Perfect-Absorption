@@ -119,7 +119,7 @@ Enjoy everything else in this repo :) and email ali.ghorashi@yale.edu if you hav
     - [Modeling photomolecular effect using generalized boundary conditions for Maxwell equations](https://www.nature.com/articles/s42005-024-01826-z.pdf) by **Chen** and, lastly, 
     - [Plasmonics and Light–Matter Interactions in Two-Dimensional Materials and in Metal Nanostructures](https://link.springer.com/book/10.1007/978-3-030-38291-9) by **Goncalves** (a PhD thesis which covers similar ground as the paper by **Christensen**).
 
-**Lowest order corrections to surface plasmon dispersions due to d-parameters and hydrodynamic pressure**: https://hackmd.io/@aligho/B1DdxSe3gg
+**Lowest order corrections to surface plasmon dispersions due to d-parameters and namic pressure**: https://hackmd.io/@aligho/B1DdxSe3gg
 - For posterity, a pdf of this set of notes is in **./pdfs_of_notes/**. 
 
 **Mie scattering coefficients with Feibelman d-parameters**: https://hackmd.io/@aligho/Bke9op__lx
@@ -139,6 +139,9 @@ Enjoy everything else in this repo :) and email ali.ghorashi@yale.edu if you hav
 - Includes discussion on the following papers/books: [The Hydrodynamic Approach for Plasmonics in Graphene
 ](https://www.proquest.com/docview/2917520241?%20Theses&fromopenview=true&pq-origsite=gscholar&sourcetype=Dissertations%20) (Master's thesis by **Pedro Passos**), [Unusual resonances in nanoplasmonic structures due to nonlocal response](https://journals.aps.org/prb/pdf/10.1103/PhysRevB.84.121412?casa_token=LI3ua9Xq_tsAAAAA%3AU2TYIB471bO0JwfQ5mgmTD9A_FgWQBaRiu2ENBTQ0YHJfw3c_Vg-3fwBm-J93HGopKh3ZaIVHAPMcQ), [Electrodynamics of a Layered Electron Gas. I. Single Layer](https://www.sciencedirect.com/science/article/pii/0003491673901619) by **Alexander Fetter**, [Electromagnetic Surface Modes](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ia601409.us.archive.org/12/items/in.ernet.dli.2015.148030/2015.148030.Electromagnetic-Surface-Modes.pdf&ved=2ahUKEwj-t4Pvs9aPAxXkD1kFHZ6oFk0QFnoECB4QAQ&usg=AOvVaw3lVFcvFjjy3p2Me4T824Kv) by **Boardman**, [Classical and Quantum Plasmonics in Graphene Nanodisks:
 the Role of Edge States](https://link.aps.org/pdf/10.1103/PhysRevB.90.241414?casa_token=GwqXhy0kCv0AAAAA:C1i4xZyQE8U6sSKjdi09B3rh_8K0unbxdCOWhalyFgpAzlQbIvZ9I2nNmsKJxudWAzDroHfZi3uBclg) and [Plasma echoes in graphene](https://journals.aps.org/prb/pdf/10.1103/PhysRevB.108.085404?casa_token=Iu4cXl8WMmAAAAAA%3AANPgfmVy5oppsL0fnSYtQstl3p-Sztr0tHxHWDJKuD45Ie5PYeAf0KLQngBwjXrs2z9HAEPZgoJPtok) by **Jablan**
+- For the effect of the diffusion term, see these set of notes: https://hackmd.io/@aligho/HJvv6hASGe, which primarily follows the following paper [Role of diffusive surface scattering in nonlocal
+plasmonics](https://iopscience.iop.org/article/10.1088/1361-648X/ab977d/pdf?casa_token=2XVUIOBFrNAAAAAA:Hje6d0_twZfvPwIuXNgBFh0pmUD-jadXarv6DrLe4FC6-sAHje-WHaEjohUkMYaQqygKC7p-fSEqqyv7FqqtbfRghPE)
+    - For posterity, a pdf of this set of notes is in **./pdfs_of_notes/**. 
 
 **Modes of the universe approach**: https://hackmd.io/@aligho/rySmTBry-x
 
