@@ -35,3 +35,5 @@ light using a passive sink](https://opg.optica.org/oe/fulltext.cfm?uri=oe-21-15-
 **Extraordinary reflection from sub wavelength cylinders.ipynb**: Re-creates figures from the paper [Extraordinary optical reflection from sub-wavelength cylinder arrays](https://opg.optica.org/directpdfaccess/87a6fce8-e489-4bee-bbbfeae2114ce881_89577/oe-14-9-3730.pdf?da=1&id=89577&seq=0&mobile=no). See also the main directory for notes on this paper. 
 
 **Debye Approximation (Whispering Gallery Modes).ipynb** Debye approximation to the CPA conductivity (**Section S13** of the Supplement).
+
+**Graphene LSPR Laser.ipynb**: Lasing threshold calculation for a graphene coated cylinder. Follows the following two papers: [Spaser and optical amplification conditions in graphene-coated active wires](https://opg.optica.org/josab/fulltext.cfm?uri=josab-38-7-2118) and [Optical properties of graphene and IV ± VI semiconductors](https://iopscience.iop.org/article/10.1070/PU2008v051n09ABEH006625/pdf?casa_token=PI2Xma8kj24AAAAA:iqDZQqjqXkRZdtUmFIMZha6R-awlEk663OKztMOiWS4qPQg1byFAL0SnE4xsUWWzMQub6vWiKpuqcmoGhnVOb6kXVOU).
