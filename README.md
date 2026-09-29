@@ -19,6 +19,8 @@ Enjoy everything else in this repo :) and email ali.ghorashi@yale.edu if you hav
     - In relation to more refined surface scattering calculations, we derive the key results of the following papers: [Kinetic theory of electroconductivity of metal nanoparticles in the condition of surface plasmon resonance](https://www.sciencedirect.com/science/article/pii/S2666523921000039#bib0010) by **Semchuk et al** and [Optical and transport properties of spheroidal metal nanoparticles with account for the surface effect](https://journals.aps.org/prb/pdf/10.1103/PhysRevB.84.085448?casa_token=fDOIGdDfpDMAAAAA%3A_AJIEdR4_vkqK5WLC9Dj9v7neUMsP6SonZfU6vyJ_wkL_pvvRzXtH-DeB6aT2Fcy0gIzm2UCjZitZvc) by **Grigorchuk et al**.
     - For posterity, a pdf of this set of notes is in ./pdfs_of_notes/.
 - Notes on Lambertian surface scattering model for spheres and nanoshells: https://hackmd.io/@aligho/BysrVqO9Gg
+    - This set of notes derives select results from the following papers: [Electronic properties of small silver particles: the optical constants and their temperature
+dependence](https://iopscience.iop.org/article/10.1088/0305-4608/4/7/007/pdf?casa_token=hvvOpv3ti7gAAAAA:VESHyB-K4EUXsxZ6hnH44l4mj3ZqxjTRagpPPfYtxOuLEYSqXhJLpvQZf9D6qftTuLbeiiECLaOBkA77pHZ9_kmfHdc) by **Kreibig** and [Electron Mean Free Path in a Spherical Shell Geometry](http://www.wave-scattering.com/jpchc_112_10641.pdf) by **Moroz**.     
 
 **Graphene coated nanospheres**: https://hackmd.io/@aligho/ByRl-iJ_ge. 
 - This set of notes concerns the paper [Localized plasmons in graphene-coated nanospheres](https://journals.aps.org/prb/pdf/10.1103/PhysRevB.91.125414) by **Christensen et al**.
