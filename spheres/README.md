@@ -53,6 +53,10 @@
 **bulk_plasmon_cpa**: Calculates CPA engendered by bulk resonances (see [Nonlocal Response of Metallic Nanospheres Probed by Light, Electrons, and Atoms](https://pubs.acs.org/ancac3/article-pdf/8/2/1745/13770781/nn406153k.pdf)). In addition, this notebook reproduces select figures from the following papers: [Optical Properties of a Plasma Sphere](https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.31.1434?casa_token=i4XsSfDjspgAAAAA%3AYS4tkcDAeioMpYUG7HSaBSL2jtNsEuF1K8cmvl91uQg02bC1aiPKCKGQBuKwZd3bnuo1-HUS_7rTnQ) by **Ruppin** and [Nonlocal Response of Metallic
 Nanospheres Probed by Light, Electrons, and Atoms](https://pubs.acs.org/ancac3/article-pdf/8/2/1745/13770781/nn406153k.pdf) by **Christensen et al**. 
 
+
+**Leung and Pang paper.ipynb**: Re-creates select figures from the following paper: [Completeness and time-independent perturbation of morphology-dependent resonances in dielectric spheres](https://opg.optica.org/josab/fulltext.cfm?uri=josab-13-5-805##) by **Leung and Pang**.
+
+
 **utils.py**: Expressions for scattering coefficients for spheres. The zeros of the denominator functions give the surface plasmon frequencies and the zeros of the numerator functions give the CPA frequencies. For derivation of the scattering coefficients, see: https://hackmd.io/@aligho/ByRl-iJ_ge. 
 
 
