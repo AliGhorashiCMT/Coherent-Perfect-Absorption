@@ -37,3 +37,7 @@ light using a passive sink](https://opg.optica.org/oe/fulltext.cfm?uri=oe-21-15-
 **Debye Approximation (Whispering Gallery Modes).ipynb** Debye approximation to the CPA conductivity (**Section S13** of the Supplement).
 
 **Graphene LSPR Laser.ipynb**: Lasing threshold calculation for a graphene coated cylinder. Follows the following two papers: [Spaser and optical amplification conditions in graphene-coated active wires](https://opg.optica.org/josab/fulltext.cfm?uri=josab-38-7-2118) and [Optical properties of graphene and IV ± VI semiconductors](https://iopscience.iop.org/article/10.1070/PU2008v051n09ABEH006625/pdf?casa_token=PI2Xma8kj24AAAAA:iqDZQqjqXkRZdtUmFIMZha6R-awlEk663OKztMOiWS4qPQg1byFAL0SnE4xsUWWzMQub6vWiKpuqcmoGhnVOb6kXVOU).
+
+**coherent virtual absorption.ipynb**: Reproduces select figures from the following paper: [ Coherent virtual absorption based on complex zero excitation for ideal light capturing](https://opg.optica.org/directpdfaccess/c81ceff5-9917-4781-82436a01778fb4cf_377272/optica-4-12-1457.pdf?da=1&id=377272&seq=0&mobile=no)
+
+**constant_flux_states.ipynb**: Reproduces select figures from the following paper: [Self-consistent multimode lasing theory for complex or random lasing media](https://journals.aps.org/pra/pdf/10.1103/PhysRevA.74.043822?casa_token=hjAL2eDIFCMAAAAA%3A8Rq65VMyIWZsy_5yMTCO9tiBT2oXJnqNovmy7C0t-0IX18L9AVcAmKxCZ63-J6XEZQ9aBLaiS1nKxps).
