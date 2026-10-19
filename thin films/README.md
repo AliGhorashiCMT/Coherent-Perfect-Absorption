@@ -7,3 +7,6 @@
 **Notes for multilayer cpa**: https://hackmd.io/@aligho/Hyq-xI3ngg
 
 **Leung, Liu, Young paper.ipynb**: Reproduces **Figure 3** of the following paper: [Completeness and orthogonality of quasinormal modes in leaky optical cavities](https://journals.aps.org/pra/pdf/10.1103/PhysRevA.49.3057?casa_token=hOEIbKO0zwQAAAAA%3ATmzmsDQEjJIvuR9iwQjFrBaa5o4ylAZzmKHZstBRbkmMSFpIqpV-wFIwAykoAQ8WOOyfLSS6sCyRZg). This figure essentially demonstrates the completeness of resonance states (quasinormal modes) within a one-dimensional cavity composed of a perfectly reflecting mirror and an infinitely thin film of infinite refractive index. For a similar calculation for dielectric spheres, see **../spheres/Leung and Pang paper.ipynb/**. 
+
+**Muljarov, Langbein, Zimmermann paper.ipynb**: Reproduces **Figure 1** of the following paper: [Brillouin-Wigner perturbation theory in open
+electromagnetic systems](https://iopscience.iop.org/article/10.1209/0295-5075/92/50010/pdf?casa_token=EI3v9y-qFNIAAAAA:tBj4r5au-336TDXGIbSpMH7XzEq2BcKeGIWVERgDlgFolgZuS3j3F7-WwU2ekV6E6NDKbXSjo5BFJGvmcHll5lOPHT0)
