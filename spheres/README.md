@@ -26,9 +26,23 @@
 **CPA for multilayer with thin film.ipynb**: Compares the multilayer formalism with the closed form CPA formalism for cloaked systems. In particular, we consider we map a cloaked system to an "equivalent" multilayer system with mantle layer dielectric constant given by $\varepsilon(\omega)=1+i\sigma(\omega)/(\varepsilon_0\omega d)$. Saves the following files: 
 - **./paper/thin_film_limit_tm.pdf** and **./paper/thin_film_limit_te.pdf**, corresponding to **Supplementary Figure 10** and **Supplementary Figure 11**. 
 
-**Void Plasmon Decay.ipynb** and **Void Plasmon Surface Scattering.ipynb**: More information provided in the **README** of the main directory, but, briefly, these verify **Figure 1** and **Figure 7**, respectively, of [Radiative decay of plasmons in a metallic nanoshell](https://link.aps.org/pdf/10.1103/PhysRevB.69.155402?casa_token=ysrofqx3MhMAAAAA:PO2xtgoR8T6w5glk_0FlmUHMIk5X6qtD1tdgkH6TqaDN3p0EXLMs_s-OFhfZkDREXNWQ3-83KUphDw). Both notebooks deal with dipolar $l=1$ modes. 
+**Void Plasmon Decay.ipynb** and **Void Plasmon Surface Scattering.ipynb**: More information provided in the **README** of the main directory, but, briefly, these verify **Figure 1** and **Figure 7**, respectively, of [Radiative decay of plasmons in a metallic nanoshell](https://link.aps.org/pdf/10.1103/PhysRevB.69.155402?casa_token=ysrofqx3MhMAAAAA:PO2xtgoR8T6w5glk_0FlmUHMIk5X6qtD1tdgkH6TqaDN3p0EXLMs_s-OFhfZkDREXNWQ3-83KUphDw). Both notebooks deal with dipolar $l=1$ modes. The latter saves the following files (the text files correspond to void/sphere mode quality factors using the labeled surface scattering model): 
+- **bulk_scattering_boltzmann_lambertian_sphere.txt**
+- **bulk_scattering_boltzmann_lambertian_void.txt**
+- **bulk_scattering_boltzmann_moroz_sphere.txt**
+- **bulk_scattering_boltzmann_moroz_void.txt**
+- **bulk_scattering_de_abajo_sphere.txt**
+- **bulk_scattering_de_abajo_void.txt**
+- **bulk_scattering_lambertian_sphere.txt**
+- **bulk_scattering_lambertian_void.txt**
+- **bulk_scattering_moroz_sphere.txt**
+- **bulk_scattering_moroz_void.txt**
+- **bulk_scattering_sphere.txt**
+- **bulk_scattering_void.txt**
+- **extended_figure_7_1.pdf** (Corresponds to **Figure 3** of my paper with Victoria Zhang(
+- **extended_figure_7_2.pdf** (Corresponds to **Figure 4** of my paper with Victoria Zhang(
 
-**Void Plasmon Higher Angular Momentum.ipynb**: Further analysis of the paper, [Radiative decay of plasmons in a metallic nanoshell](https://link.aps.org/pdf/10.1103/PhysRevB.69.155402?casa_token=ysrofqx3MhMAAAAA:PO2xtgoR8T6w5glk_0FlmUHMIk5X6qtD1tdgkH6TqaDN3p0EXLMs_s-OFhfZkDREXNWQ3-83KUphDw). In particular, we try to re-create **Figure 2** of the paper. This we do successfully for $l=1$, but there are discrepancies for $l>1$ because the paper actually fixes $Rl=6$ instead of $R=6$. We re-create both the faulty figure by taking $Rl=6$ and we produce the correct figure, which is qualitatively different. Importantly, though, this notebook defines **paper_method** and **paper_method_2**, which numerically evaluate **Equation 2** of the paper. **paper_method_2** does this while avoiding numerical instabilities which arise for $l=3$, see https://hackmd.io/@aligho/BJK40peuxl. This notebook saves the following files for the paper (all in the folder:
+**Void Plasmon Higher Angular Momentum.ipynb**: Further analysis of the paper, [Radiative decay of plasmons in a metallic nanoshell](https://link.aps.org/pdf/10.1103/PhysRevB.69.155402?casa_token=ysrofqx3MhMAAAAA:PO2xtgoR8T6w5glk_0FlmUHMIk5X6qtD1tdgkH6TqaDN3p0EXLMs_s-OFhfZkDREXNWQ3-83KUphDw). In particular, we try to re-create **Figure 2** of the paper. This we do successfully for $l=1$, but there are discrepancies for $l>1$ because the paper actually fixes $Rl=6$ instead of $R=6$. We re-create both the faulty figure by taking $Rl=6$ and we produce the correct figure, which is qualitatively different. Importantly, though, this notebook defines **paper_method** and **paper_method_2**, which numerically evaluate **Equation 2** of the paper. **paper_method_2** does this while avoiding numerical instabilities which arise for $l=3$, see https://hackmd.io/@aligho/BJK40peuxl. This notebook saves the following files for the paper (all in the folder **./de_abajo_correction**):
 - **l_1_sphere_correct.txt**: Dispersions and quality factors for the lower resonance for $R=6$ and $l=1$
 - **l_2_sphere_correct.txt**: Dispersions and quality factors for the lower resonance for $R=6$ and $l=2$
 - **l_3_sphere_correct.txt**: Dispersions and quality factors for the lower resonance for $R=6$ and $l=3$
