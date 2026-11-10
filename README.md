@@ -4,6 +4,10 @@
 
 Detailed descriptions of all relevant code/figures is in **./spheres/** and **./cylinders/**.
 
+### If you are here for code relevant to **Revisiting the dispersions and quality factors of nanoshell plasmons** (Submitted manuscript):
+
+Detailed descriptions for all relevant code/figures is in **./spheres/** as well as in the bullet point **Void and sphere plasmons (and their radiative decay)** below. 
+
 ### Otherwise, if you are not here for the paper code: 
 
 Enjoy everything else in this repo :) and email ali.ghorashi@yale.edu if you have any questions. 
