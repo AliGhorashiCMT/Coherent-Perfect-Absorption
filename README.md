@@ -8,7 +8,7 @@ Detailed descriptions of all relevant code/figures is in **./spheres/** and **./
 
 Detailed descriptions for all relevant code/figures is in **./spheres/** as well as in the bullet point **Void and sphere plasmons (and their radiative decay)** below. 
 
-### Otherwise, if you are not here for the paper code: 
+### Otherwise, if you are not here for paper codes: 
 
 Enjoy everything else in this repo :) and email ali.ghorashi@yale.edu if you have any questions. 
 
