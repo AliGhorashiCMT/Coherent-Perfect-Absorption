@@ -56,7 +56,8 @@
 - **corrected_figure_2.pdf**: Plots data from the first six text files enumerated above. This figure corresponds to **Figure 1** of my paper with Victoria Zhang.
 - **incorrect_figure_2.pdf**: Plots data from the last four text files enumerated above. This figure corresponds to **Figure 2** of my paper with Victoria Zhang.
 
-**Kreibig from diffusion.ipynb**: Finds the Kreibig parameter for a sphere using the poles of the diffusion and hydrodynamic corrected polarizability. See the following paper (and its supplement): [A generalized non-local optical response theory for plasmonic nanostructures](https://www.nature.com/articles/ncomms4809#MOESM289)
+**Kreibig from diffusion.ipynb**: Finds the Kreibig parameter for a sphere using the poles of the diffusion and hydrodynamic corrected polarizability. See the following papers (and its supplement): [A generalized non-local optical response theory for plasmonic nanostructures](https://www.nature.com/articles/ncomms4809#MOESM289) (and its supplement), [Blueshift of the surface plasmon resonance in silver nanoparticles: substrate effects](https://opg.optica.org/oe/fulltext.cfm?uri=oe-21-22-27344).
+
 
 **Quasistatic void plasmon.ipynb** Using the formalism of the de Abajo paper, [Radiative decay of plasmons in a metallic nanoshell](https://link.aps.org/pdf/10.1103/PhysRevB.69.155402?casa_token=ysrofqx3MhMAAAAA:PO2xtgoR8T6w5glk_0FlmUHMIk5X6qtD1tdgkH6TqaDN3p0EXLMs_s-OFhfZkDREXNWQ3-83KUphDw), mentioned in the notebooks above, we compare the quasistatic and fully retarded void/sphere plasmons in nanoshells. The quasistatic ones are analyzed in this paper: [Surface plasmons and strong light-matter coupling in metallic nanoshells](https://scholar.archive.org/work/ojws3hap2jb7nax3evbj4jet2m/access/wayback/http://fisica.unipv.it/nanophotonics/Pubs/AlpeggianiPRB2012.pdf)
 
